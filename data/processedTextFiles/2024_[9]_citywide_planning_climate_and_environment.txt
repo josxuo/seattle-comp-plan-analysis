@@ -1,0 +1,321 @@
+Climate and Environment
+Introduction
+Seattle is a place of unparalleled natural beauty. Indigenous peoples, stewards of these lands and waters from time immemorial, continue to remind us of our connections to nature to sustain and inspire us. Newcomers are drawn by access to nature both within the city as well as to the mountains, rivers, and beaches beyond. Strong values of environmental protection and sustainability have shaped our Comprehensive Plan from the start.
+But Seattle is facing a growing and evolving challenge: climate change. Warmer average temperatures, more frequent extreme heat events, prolonged wildfire smoke episodes, extreme precipitation, and sea level rise are projected to worsen under a variety of future climate scenarios. How bad they will get is dependent on reducing greenhouse gas emissions and the ability to improve adaption for the City's systems and communities.
+The City of Seattle is redoubling efforts to drive down carbon emissions that contribute to global climate change. Just as important, the City is working on multiple fronts to strengthen the resilience
+
+of our communities and natural environment to current and future climate impacts. Seattle is leading this work with climate justice to ensure those most harmed by past racial, economic, and environmental injustice are not further harmed by the impacts of climate change or the transition away from fossil fuels. As the City takes action to adapt and decarbonize, environmental benefits must be equitably distributed, and burdens must be minimized and equitably shared.
+Our natural environment, including trees, forests, and water resources, are central to Seattle's quality of life and identity, and essential to the survival of imperiled native species, such as salmon and orca. The natural environment plays an important role in the battle against climate change by helping the city adapt to impacts and mitigate carbon pollution. Trees and vegetation buffer the impacts of extreme heat and poor air quality. Wetlands and floodplains absorb excess rain and reduce flooding. Trees, shrubs, and soil absorb and store carbon, preventing its release into the atmosphere. Climate change also affects the health and sustainability of these resources.
+Preservation and restoration are a necessity for a healthier and more resilient city.
+
+In 2023 the Washington State legislature passed House Bill 1181 updating the State's planning framework to improve the state's response to climate change. This bill requires Seattle to adopt a new climate change and resiliency element including greenhouse gas emissions reduction sub- element and a resiliency sub-element by 2029. This Climate and Environment element is organized to include two required sub-elements (see below). Because of the broad reaching impacts of climate change, additional policies addressing climate change are included in every element of this Plan.
+Carbon Pollution Reduction includes goals and policies that reduce carbon pollution.
+Healthy Resilient Communities and Environment includes goals and policies that foster climate resiliency to the impacts of climate change and natural hazards, and sustains healthy tree canopy, water resources, and local food system.
+
+
+Climate and Environment, Part 1 of 2:
+Carbon Pollution Reduction
+Global and local climate change is a direct result of an excessive amount of carbon pollution trapping too much heat in our atmosphere. It is imperative that the sources of carbon pollution be reduced and ultimately eliminated. Seattle has been a world leader in reducing carbon pollution. Seattle was the first city in the nation to adopt a green building goal for all new municipal facilities. Seattle City Light was the nation's first large electric utility to become carbon neutral. Mayor Nickels launched the Mayor's Climate Protection Initiative and challenged U.S. mayors to reduce carbon pollution 7% below 1990 levels by 2012. Seattle was one of the first cities in the nation to adopt a Climate Action Plan (CAP) in 2006 to achieve that goal.
+Though much progress has been made, it has not been enough. Carbon pollution levels continue to warm our planet and the impacts of climate change are ever more apparent. Ultimately, Seattle aims to reach zero carbon-no greenhouse gas (GHG) emissions. But the path to zero carbon pollution must prioritize the communities hit hardest by this climate crisis and least able to bear the burden
+
+of the change. A just transition from fossil fuels to renewable energy must address past harms and create a greener, healthier, and more prosperous future for everyone, everywhere.
+
+
+Setting Goals and Measuring Progress
+DISCUSSION
+Carbon pollution, also called greenhouse gas or GHG, is a gas in the atmosphere that traps and holds heat. When we use the phrase carbon pollution, we are talking about the gases released into the atmosphere primarily as a result of human activities. The more carbon pollution we release, the more our climate is impacted.
+Every two years, Seattle releases a geographically based GHG inventory that tracks emissions that occur within the city's borders in three key sectors: transportation, buildings, and waste. The 2020 GHG Inventory finds a marked decrease in core GHG emissions since the prior 2018 report.
+Unfortunately, most of the reduction is likely temporary and primarily attributed to the impacts of the COVID-19 pandemic, which slowed the economy and resulted in many people reducing their automobile travel. Transportation continued to account for the majority (61%) of core GHG emissions, followed by buildings (37%) and waste (2%).
+Seattle and King County have also collaborated on an inventory of consumption based GHG emissions sources to measure the GHG emissions associated with food, purchases, travel, and homes, no matter where those emissions are produced. Seattle's consumption-based emissions are estimated to be two to four times larger than the geographic-based emissions.
+To further reduce emissions, the City is focused on decarbonizing buildings and shifting to zero emission vehicles, travel modes, and trips. The City is fortunate to have Seattle City Light's majority renewable and non-emitting, affordable, and reliable electricity to power our transportation and buildings. City Light is readying the power grid to be more flexible, reliable, and resilient enough to withstand an increased load demand through growing electric vehicle (EV) usage. The City also supports a range of policies and practices that prevent waste.
+GOAL
+
+CE G1	Seattle's core greenhouse gas emissions are reduced by 58 percent from 2008 levels by 2030 and attain carbon neutrality by 2050.
+POLICIES
+
+CE 1.1	Work collaboratively across City departments to periodically inventory, evaluate, and update community-wide greenhouse gas emissions reduction targets to reflect the latest international climate science targets and analysis methods and to align with state and regional goals.
+CE 1.2	Incorporate additional and better data into the inventory, evaluation, and targets for expanded emissions and community consumption emissions as data becomes available.
+
+CE 1.3	Develop and implement policies, programs, and projects to equitably reduce GHG emissions to meet our adopted targets in partnership with the Green New Deal Oversight Board and the Environmental Justice Committee.
+CE 1.4	Partner with regional agencies, local jurisdictions, frontline communities, the state, academic institutions, community leaders, industry, and public, private, and not-for- profit groups to promote programs and policies that achieve GHG emission reduction targets and increases the awareness and transparency of inventories.
+
+
+Transportation
+See also Transportation Element
+
+DISCUSSION
+The City is focused on cutting transportation emissions by reducing personal vehicle use by making walking, biking, and transit options more attractive. Another key strategy is to support and accelerate transportation electrification by making electrical service electric vehicle-ready, providing more public electrical vehicle charging facilities, and supporting all-electric buses across our region. But Seattle is not yet on track to meet our 2030 emissions reduction goals. More aggressive change is needed across the transportation sector to transition from fossil fuels to zero-emissions energy sources.
+GOAL
+
+CE G2	Greenhouse gas emissions are reduced by reducing vehicle trips and transitioning to zero-emissions trips.
+POLICIES
+
+CE 2.1	Make short trips safe, affordable, and zero emissions by expanding walking, biking, and use of shared bikes and scooters.
+CE 2.2	Create opportunities for zero emission trips that are affordable for lower-income households.
+CE 2.3	Focus and tailor efforts within neighborhoods to reduce vehicle traffic and encourage walking and biking, such as by establishing a zero emission neighborhoods strategy.
+CE 2.4	Establish neighborhood delivery hubs to reduce trips from delivery vehicles and to facilitate more zero emission delivery trips via electric vehicles and bikes.
+CE 2.5	Increase opportunities for open street events that are car-free.
+
+CE 2.6	Expand first- and last-mile public transportation options for people to access regional and frequent transit services.
+
+CE 2.7	Explore policies to price the use of fossil fuel vehicles, including expanded parking pricing, user fees, tolls, and low-pollution zones and including provisions for to achieve equitable distribution of burdens.
+CE 2.8	Develop regulations and incentives to shift personal trips to zero emission travel modes (transit, biking, and walking) to achieve 90% zero emission trips by 2030.
+GOAL
+
+CE G3	Greenhouse gas emissions are reduced by expanding and expediting the transition to electric vehicles.
+POLICIES
+
+CE 3.1	Partner with transportation service providers to electrify public transit, taxis, bike and scooter shares, and services provided by transportation network and carshare companies to achieve a goal that 100% of shared mobility is zero emissions by 2030.
+CE 3.2	Ensure that infrastructure required for transportation electrification is installed and operational in a proactive and timely manner.
+CE 3.3	Streamline permitting and installation for electric vehicle charging and grid modernization infrastructure to support the adoption of electric vehicles.
+CE 3.4	Work with utility providers, developers, EV companies, and other partners to expand EV charging infrastructure across the city including at City buildings, multifamily homes, apartment buildings, major employer buildings, and parking garages.
+CE 3.5	Support the electrification of freight vehicles through strong partnerships with the Port of Seattle to reduce GHG emissions, improve air quality and health outcomes in communities with high freight traffic, and to support the goal of 30% of goods delivery being zero-emission by 2030.
+CE 3.6		Develop and regularly update an Electric Vehicle Infrastructure Plan to track progress and adjust as needed.
+CE 3.7	Support state-level policies and actions that incentivize and create requirements for clean fuels and electrification of private and commercial fleet vehicles.
+
+
+Development Pattern
+See also Growth Strategy and Land Use Elements
+DISCUSSION
+Living in an urban area like Seattle can substantially reduce a person's GHG emissions by allowing them to travel shorter distances to jobs, shops, services, and amenities and to use transit, walking, and biking to accomplish more trips. Urban residents tend to live and work in compact buildings that use less energy. Growth in urban areas also reduces development on the urban fringe, which
+
+contributes to sprawl, vehicle miles traveled, and the conversion of farms and forests. Consequently, accommodating more jobs and housing in Seattle is one of the best things we can do to support our climate goals. Additionally, as we grow, we have an opportunity to focus our growth in ways that let more people access jobs, shops, services, and amenities by transit, walking, and biking.
+GOAL
+
+CE G4	The location of new jobs and housing reduces carbon pollution and discourages fossil fuel use.
+POLICIES
+
+CE 4.1	Plan for the location of jobs and housing within Seattle to reduce regional emissions due to transportation, sprawl, and greenfield development.
+CE 4.2	Promote the development of complete, connected communities where people can walk, bike, and roll to everyday needs.
+CE 4.3	Focus new housing and jobs in areas near transit and activity centers, where people can walk, bike, and roll to shops, services, and amenities.
+CE 4.4	Consider limits on new or expanded bulk fossil fuel facilities in order to ensure public health and safety, promote resiliency, and support achievement of the City's climate goals.
+
+
+Buildings and Energy
+See also Land Use, Capital Facilities, and Utilities Elements
+
+DISCUSSION
+In Seattle, buildings are one of the largest and fastest growing sources of climate pollution, responsible for more than a third of our city's GHG emissions. More than 90% of these emissions result from burning fossil fuels for heat, hot water, and appliances. For our health and resilience in the face of a changing climate, Seattle is committed to a goal of eliminating climate pollution and transitioning to 100% clean energy in all buildings by 2050.
+GOAL
+
+CE G5	Buildings are energy efficient and use 100% renewable energy that produces zero carbon pollution.
+POLICIES
+
+CE 5.1	Use building, energy, and zoning codes to require or encourage meeting established energy targets, reducing embodied carbon of materials, increasing mass timber and other engineered wood products, reducing fossil fuel use, improving climate adaptation, and support a transition to electric vehicles and clean energy.
+
+CE 5.2	Incentivize green building certification for new development from third party organizations that align with the City's climate goals.
+CE 5.3	Expand the implementation of building emissions performance standards to include existing residential and small commercial buildings.
+CE 5.4	Implement building performance standards with other major building improvements that improve resiliency such as seismic retrofits.
+CE 5.5	Plan for all municipal buildings to operate without fossil fuel systems and appliances no later than 2035.
+CE 5.6	Educate and assist building owners to access resources, including federal and state incentives and rebates for switching from fossil fuels to electric appliances.
+CE 5.7	Lessen the impacts of transitioning to zero carbon energy on low-income renters and homeowners, such as by providing more time for affordable housing to meet building performance standards.
+CE 5.8	Provide information, technical assistance, and financial support to low-income homeowners and landlords of affordable housing to implement weatherization, electric heat pump conversion, and other electrification and energy efficiency home retrofits.
+CE 5.9		Encourage the use of zero-carbon energy sources, such as renewables or waste heat, in both existing and new buildings.
+CE 5.10	Consider new regulations and incentives for existing buildings to improve energy efficiency and transition to renewable energy sources.
+CE 5.11	Support and expand building energy efficiency retrofit programs to reduce building energy use and improve energy resilience, especially in affordable housing.
+
+
+Solid Waste
+See also Utilities Element
+
+DISCUSSION
+As waste sent to landfills decays, it produces GHG emissions. The 2020 GHG Inventory calculated that the waste sector accounts for 2% of Seattle's GHG emissions. Seattle relies on recycling and composting programs to divert waste from landfills. In 2021, 52% of material that could be recycled was diverted from landfills.
+Moving forward, there will be more emphasis on waste prevention, which targets product consumption and consumer behavior to address the root cause of waste and toxins to reduce their impact.
+
+GOAL
+
+CE G6	Seattle's solid waste system has zero carbon pollution by 2050.
+POLICIES
+
+CE 6.1	Reduce the amount of waste generated by the residents, businesses, and other public and private organizations in the city.
+CE 6.2	Increase the amount of waste that is recycled and composted.
+
+CE 6.3	Encourage the use of durable, local products and recycled-content or reused materials, along with recycling at the end of products' lives.
+CE 6.4	Support a food system that encourages consumption of local foods and healthy foods with a low carbon footprint, reduces food waste, and fosters composting.
+CE 6.5	Implement community outreach and education programs around proper waste reduction, recycling, and composting with a focus on food waste.
+CE 6.6	Update solid waste contracts to further reduce carbon pollution.
+
+
+Climate and Environment, Part 2 of 2:
+Healthy, Resilient Communities and Environment
+All residents deserve access to clean air, fresh water, and a healthy community and environment. Building healthy resilient communities encompasses many things, including keeping neighbors safe and connected during climate events, managing and preserving tree canopy and urban forests to reduce climate impacts, and accessing healthy, locally grown, and culturally relevant foods.
+In 2023, the Seattle Climate Vulnerability Assessment documented the potential impacts climate change on the city. This study found that climate change impacts and hazards will have multiple transformative impacts for Seattle, including affecting the local economy, exacerbating public health disparities, stressing infrastructure systems, affecting community wellbeing and resiliency, and transforming local ecosystems and habitats. The burden of these impacts will be unevenly experienced across Seattle. Areas with fewer community services-such as grocery stores, parks, libraries, and transit-often coincide with neighborhoods that were historically redlined and have a higher population of residents of color, non-English speaking residents, and older adults. These areas, also called frontline communities, will also be more vulnerable to climate-related extreme events.
+Aging infrastructure systems will be more vulnerable to climate-related hazards and extreme events. Many systems are connected so impacts to one system will often have cascading impacts to other systems, services, and assets. While Seattle's systems and assets are relatively resilient to the impacts of climate change, consequences and damages are still highly likely during and after extreme events.
+
+Extreme events-such as the 2021 heat dome event or the 2022 King Tide flood event-are likely to continue to occur, leading to cascading and compounding impacts for residents, businesses, and systems. For example, the 2021 heat dome event led to peaks in heat-related emergency calls and injuries, impacts to highways and public transit systems, and temporary business closures. These extreme events may have long-term mental and community health impacts, such as anxiety or post- traumatic stress disorder.
+
+
+Planning for Resilience
+DISCUSSION
+Even with aggressive reduction of carbon pollution, climate change is inevitable, and Seattle is already experiencing impacts. While the City has already made strides to improve resiliency, the vulnerability to climate change must be considered in all City plans and strategies. The City must adapt to climate change in ways that increase resilience to other natural hazards, notably earthquakes. Resilient people and communities are better-prepared and able to withstand the catastrophic shocks of a sudden disaster as well as the slower-moving stressors of climate change.
+GOAL
+
+CE G7	Seattle is well prepared for the direct and indirect impacts of climate change and other natural hazards.
+POLICIES
+
+CE 7.1	Regularly update citywide all hazard and climate vulnerability assessments that address physical, social, and economic vulnerabilities and consider cascading or compounding effects across multiple systems.
+CE 7.2		Develop and implement emergency response, recovery, and mitigation plans for specific hazards that integrate race and social equity along with overall climate planning.
+CE 7.3	As new climate change impact data becomes available, review and, as needed, update development regulations to encourage adaptation and reduce vulnerability to extreme weather and natural hazards exacerbated by climate change including flooding, coastal erosion, landslide, liquefaction, sea level rise, extreme heat, drought, and wildfire smoke.
+CE 7.4	Consider climate impacts and embed climate adaptation into City plans such as land use plans, strategic business plans, system plans, infrastructure plans, capital facility plans, and asset management processes.
+CE 7.5	Improve climate resilience and advance climate adaptation through coordination and partnerships among City departments, other public agencies, knowledge sharing networks, funders, and affected communities.
+
+CE 7.6	Establish performance metrics and periodic reporting to track progress on climate resilience and adaptation.
+
+
+Community-Based Climate Resilience
+DISCUSSION
+The impacts of climate change fall disproportionately on frontline communities and vulnerable populations. Climate impacts worsen health effects in these communities due to disproportionate exposure to pollution from fossil-fuel powered cars and trucks. A history of redlining and housing exclusion has placed communities in areas that have greater risk of impacts such as flooding and sea level rise. The 2022 floods in South Park illustrated the devastation wrought by climate impacts as people fled their homes and weeks of cleanup followed.
+Climate change is not the only crisis our city faces. Climate action is interwoven with other community priorities and challenges, including public health, economic opportunity, anti- displacement, and pandemic recovery.
+Community-based climate resilience builds the capacity of disproportionately impacted communities to adapt to and recover from climate impacts. Community-based organizations design and deliver community-centered programs before, during, and after climate-related and other natural hazard events to keep neighbors safe and foster greater community cohesion.
+City initiatives, such as the One Seattle Climate Justice Agenda, Green New Deal, Transportation Equity Framework & Implementation Plan, and Shape Our Water, are centered on partnering with community to ensure those most impacted by systemic racism benefit from City investments and are resourced to thrive in a changing climate and evolving mobility landscape.
+GOAL
+
+CE G8	Communities have the capacity to prepare for, respond to, and recover from the impacts of climate change and other natural hazards.
+POLICES
+
+CE 8.1	Prioritize partnerships, policies, programs, and actions that reduce the disproportionate climate impacts on vulnerable populations, and frontline communities.
+CE 8.2	Mitigate climate impacts by prioritizing green infrastructure solutions that provide co-benefits to community, such as providing living wage jobs and enhancing social connectedness.
+CE 8.3		Invest in community capacity to co-develop and co-lead equitable and inclusive community education and technical assistance about climate resilience, adaptation, and emergency response for individuals, businesses, and organizations.
+
+CE 8.4	Work towards achieving racial and social equity in health outcomes so that members of all communities live long healthy lives.
+CE 8.5	Mitigate the economic impacts of transitioning to zero carbon and resilience strategies on low-income residents.
+
+
+Extreme Heat and Wildfire Smoke
+See also Land Use Element
+
+DISCUSSION
+Seattle, one of the least air-conditioned cities in the U.S, is experiencing more frequent extreme heat events. The trend toward hotter and drier summers due to climate change impacts infrastructure, power supply, air quality, food and water supplies, and health and safety. Extreme heat affects people, pets, shellfish, birds, and other wildlife and disrupts the local food system and economy.
+Extreme and extended wildfire smoke events are happening more frequently. Smoke from wildfires in Washington as well as British Columbia, Oregon, and California drift into Seattle and degrade local air quality. Smoke-filled air exacerbates the already poor air quality that many over-burdened communities, workers, and families experience from more localized sources.
+Potential health impacts include dehydration, heat illness, severe respiratory distress, hypo/hyperthermia, heart attacks, strokes, internal organ failure, and even death. These events pose life-safety threats for vulnerable populations due to loss of electricity, increased drowning and recreational accidents, increased injury due to burns or smoke inhalation, and secondary illness onset or damaged infrastructure, such as delayed medical care access or impacts on hygiene and sanitation needs and access. Wildfire smoke events pose health risks to workers responding during the event and others who continue to work outdoors.
+GOAL
+
+CE G9	Seattle has planned for and adapted to the impacts of extreme heat and wildfire smoke events.
+POLICIES
+
+CE 9.1	Develop response and recovery plans specifically for extreme heat and smoke events.
+CE 9.2	Design new and retrofit existing City capital facilities and infrastructure to adapt to increased temperatures, extreme heat events, and wildfire smoke.
+CE 9.3		Expand tree canopy and greenspace, especially in communities that experience disproportionate impacts of extreme heat and smoke events.
+CE 9.4	Encourage building design to incorporate passive cooling approaches to limit overheating and improve energy efficiency.
+
+CE 9.5	Develop and implement strategies to mitigate the impacts of extreme heat and smoke events on the urban forest, aquatic resources, and other components of the natural environment.
+CE 9.6	Coordinate with Seattle King County Public Health and Puget Sound Clean Air Agency to protect residents and outdoor workers during extreme heat and smoke events.
+CE 9.7	Provide information and technical assistance to employers, building owners, and renters to make homes and workplaces safer during extreme heat and smoke events.
+
+
+Sea-Level Rise and Flooding
+See also the Land Use, Capital Facilities, Utilities and Shoreline Elements
+
+DISCUSSION
+Seattle experiences three types of flooding: riverine, coastal, and urban. All flooding types are expected to become more intense and more frequent due to climate drivers such as sea level rise and extreme precipitation events. Areas that have historically flooded will flood more often and new areas may experience infrequent flooding events in the future. Sea levels are projected to rise across Seattle's marine and estuarial shorelines in the coming decades, though sea-level rise will vary due to local geological conditions.
+Sea levels in Puget Sound have risen nine inches since 1900 and are expected to rise another two to five feet by 2100. This means more coastal flooding, storm surge and high tide inundation, shoreline erosion, rising groundwater levels, and flood risks for infrastructure and facilities on Seattle's coasts and shorelines. Saltwater intrusion and increasing acidification and warming of Puget Sound waters will adversely affect marine organisms and habitat.
+GOAL
+
+CE G10	Seattle has planned for and adapted to impacts of sea level rise in coastal, riverine, and inland areas.
+POLICIES
+
+CE 10.1	Update City plans and projects as needed to reflect the science-based estimates of the magnitude and timing of coastal flooding related to climate change impacts.
+CE 10.2	Raise public awareness of how climate change affects coastal flooding and flood risk.
+
+CE 10.3	Where feasible, use open space, green infrastructure, and other nature-based solutions to buffer communities from flooding impacts.
+CE 10.4	Prioritize restoration of coastal environments to foster resilient ecosystems and species and consider sea level rise in restoration projects.
+
+More Frequent Intense Storms and Longer Dry Periods
+See also the Land Use and Utilities Elements.
+
+DISCUSSION
+Precipitation patterns are shifting across Seattle and the Puget Sound region. While annual precipitation will continue to remain variable, there will be seasonal shifts. Winter and fall precipitation are expected to increase and precipitation will increasingly fall as rain rather than snow. Additionally, winter precipitation may be concentrated in extreme rain events, which can exacerbate flooding risks. Summer precipitation is projected to decrease, contributing to regional heat stress, drought conditions, and water supply impacts.
+Changing precipitation patterns could affect areas prone to geologic hazards, such as landslides and liquefaction. Heavy precipitation, particularly over prolonged periods, can contribute to slope instability and failure. Events like these will likely increase in frequency and intensity into the future, contributing to increased risks of landslides that cause damage and blockage to transportation routes, buildings, other infrastructure, and natural areas across the city. As sea level rises along the Seattle shoreline, water tables will also rise, increasing soil saturation and the likelihood and severity of liquefaction in the event of an earthquake, especially during the winter.
+GOAL
+
+CE G11	Seattle has planned for and adapted to the impacts of more frequent and more intense precipitation and storm events and longer dry periods.
+POLICIES
+
+CE 11.1	Improve drainage system resiliency through the use of green stormwater infrastructure.
+CE 11.2	Coordinate efforts among City departments and with other public agencies to resource holistic flood hazard management efforts and implement innovative approaches such as integrating publicly owned open space into a green stormwater infrastructure system.
+CE 11.3	Invest in adaptive and flexible drainage and wastewater system improvements and reduce impervious surfaces, particularly in low lying areas, high impervious surface coverage areas, and historically redlined areas.
+CE 11.4	Protect the function and integrity of flood prone areas, wetlands, and habitat conservation areas to reduce the city's exposure to geological and flood hazards and ensure the health of sensitive habitats.
+
+
+Tree Canopy
+See also the Parks and Open Space Element.
+
+DISCUSSION
+Seattle's tree canopy is fundamental to our quality of life, especially as Seattle continues to grow and experiences the impacts of climate change. The urban forest consists of trees and associated understory plants, and provides crucial ecosystem services, such as stormwater reduction, air pollution removal, wildlife habitat, carbon storage, and tree canopy that mitigates heat island impacts. The urban forest extends across public property, private property, and the right-of-way and includes parks and natural areas, as well as the trees along streets and in yards.
+GOAL
+
+CE G12	Seattle has a healthy urban forest with a tree canopy that covers at least 30% of the land, which maximizes the environmental, economic, social, and climate-related benefits of trees.
+POLICIES
+
+CE 12.1	Consider the needs of frontline communities in all urban forestry actions.
+
+CE 12.2	Manage the urban forest to increase its resilience to potential impacts, especially from climate change.
+CE 12.3	Regularly update the tree canopy analysis to monitor changes and trends in the amount, distribution, and condition of the urban forest and use this information to shape urban forestry management plans, decisions and actions.
+CE 12.4	Coordinate among City departments and collaborate with other agencies, stakeholders, and community members to increase tree canopy.
+CE 12.5	Reach out to, educate, and partner with the community to help care for Seattle's urban forest and preserve our tree canopy.
+CE 12.6	Preserve, restore, maintain, and enhance tree canopy on City property and rights-of- way.
+CE 12.7	Provide support to the community, via incentives, education, and regulations, for retaining, caring for, removing, replacing, and planting trees.
+CE 12.8	Encourage the protection, maintenance, and expansion of tree canopy throughout the community, prioritizing residential and mixed-use areas with the least current tree canopy to equitably distribute benefits.
+CE 12.9	Manage parks and greenbelts to decrease climate risks, protect residents, and improve ecosystem health and habitat.
+
+
+Water
+See also Utilities Element, Water System
+
+DISCUSSION
+Seattle is a city of water. Puget Sound, Lake Washington, Lake Union, the Lake Washington Ship Canal, the Duwamish River, Green Lake, urban creeks, and small lakes all enhance the quality of life for the people and wildlife that live here. Four species of salmon-including the threatened Chinook salmon-call this area home, as do resident trout, blue herons, bald eagles, and various other water- dependent species. Seattle's major waterways bustle with business and recreational opportunities and support one of the premier industrial seaports on the West Coast. Moreover, Seattle's aquatic areas give residents the chance to enjoy and experience nature close to home.
+Tribal communities have a special relationship to water resources and salmon. Salmon fishing holds deep cultural significance for native peoples, and the decline of wild salmon threatens this vital resource. As the original watershed stewards, living in harmony with nature and stewarding the waters and habitats of our region is central to tribal culture and life. The struggle to assert tribal water and fishing rights has strengthened and deepened this connection. Tribes play a leading role in the Puget Sound region's watershed restoration and salmon recovery efforts.
+Despite their integral place in the local culture, landscape, and economy, Seattle's aquatic resources have been significantly degraded as a result of urban growth. A six-mile stretch of the Duwamish River is now a federal Superfund site. More than 90 percent of Seattle's 146 miles of shoreline have been modified and now lack natural connections to the water. The city's creeks have seen stormwater flows equivalent to some rivers. Fish in local waters contain high amounts of mercury and PCBs, and some of our coho salmon are dying before they can reach Seattle streams to spawn.
+Climate change is a growing threat to the Puget Sound and other waterbodies. The impacts include ocean acidification, increasingly frequent and extreme storms, warming air and water temperatures, and sea-level rise.
+Yet even these resources, polluted as they may be, have amazing vitality and resilience. If stewarded well by the residents of the city and region, they have the potential to become even greater assets to Seattleites in the future.
+GOAL
+
+CE G13	All water is treated as an essential resource and managed in a sustainable and integrated way that protects water quality, improves aquatic health, supports cultural uses, and solves problems at the source to benefit all life that relies on our local waterbodies.
+POLICIES
+
+CE 13.1	Control and reduce water pollution sources, as far upstream as possible.
+
+CE 13.2	Treat stormwater runoff, especially runoff from roadways and other high pollutant generating surfaces, using green stormwater infrastructure and other best management practices.
+CE 13.3	Use and encourage sustainable land management practices that minimize pesticides, enhance water absorption, and build soil.
+
+CE 13.4	Protect and increase permeable surfaces and use permeable paving.
+
+CE 13.5	Encourage the capture and reuse of water at both the site and district scale.
+
+CE 13.6	Develop integrated and comprehensive approaches to restoring, protecting, and managing fish and wildlife habitat, such as reconnecting floodplains and removing fish barriers, to accelerate ecosystem recovery of salmon, orca, and other endangered species.
+CE 13.7	Increase sustainable community connections and public and tribal access to our waterbodies and natural systems.
+CE 13.8	Mitigate the impacts of climate change on Puget Sound and other Seattle waterbodies.
+CE 13.9	Work to clean up existing contaminated water body sediments.
+
+
+Healthy Food System
+DISCUSSION
+The food system affects our everyday life in many ways. It provides the food we eat, is a major employer, is a large household expense, impacts the built and natural environment, and significantly impacts our health and the climate. The food system comprises all the ways in which food moves from farm or sea (producer) to table (consumer). That includes the farms on which it grows, the places where food is foraged, the waters and beaches where fish and shellfish are harvested, the manufacturers who process and produce foods, the venues in which the foods are delivered to the public, the way the consumer receives and consumes food, and the food waste that is generated and handled.
+Healthy food is integral to the health and well-being of our communities. Healthy food is defined as food that is fresh and nutritious and grown without harming its producers or our air, water, or soil. In a healthy food system, healthy food is available and accessible for all community members. There is a strong network of successful businesses that produce, process, cook, transport, and sell that food; there are opportunities to gather, forage, and produce food locally. Food waste is prevented.
+Supporting a healthy food system is important for health, the environment, economy, and community. Rising obesity and diet-related diseases increase health care costs and decrease life expectancy. One in five children in King County does not always have enough to eat, and growing economic inequality makes healthy food even harder for many to afford. Chemically intensive agriculture degrades the quality of our land, our air, and our water. Food sales, restaurants, food products, and food service are a growing sector of the local economy. Food inequities disproportionately affect low-income residents, children, seniors, and communities of color.
+Growing, eating, and sharing food brings local communities together.
+
+The recent pandemic demonstrated how access to food can be quickly disrupted. Longer and dryer summers from our changing climate will also affect the food system in coming years. A resilient food system is increasingly important.
+GOAL
+
+CE G14	Seattle has an accessible, resilient, and zero-waste food system that provides easy access to healthy food.
+POLICIES
+
+CE 14.1	Strengthen culturally responsive and nutritious food distribution by public and community food programs to people in need.
+CE 14.2	Support convenient access to nutritious, affordable, and culturally relevant food for all areas where people live by encouraging a variety of grocery stores, farmers markets, farm stands, food forests, and community food gardens across the city.
+CE 14.3	Increase access to land to support traditional food practices, regenerative urban agriculture practices, locally grown foods, and community food projects, especially for communities historically impacted by settler colonialism and racism.
+CE 14.4	Build community food security through culturally relevant, equitable, and nutritious food access.
+CE 14.5	Create an equitable, fair, and healthy local food economy for workers, businesses, and residents through economic development initiatives, access to capital and financing, streamlined permitting and regulations, outreach and education about labor laws, and protections for low-wage workers.
+CE 14.6	Foster strong, equitable, and environmentally sustainable local and regional food supply chains.
+CE 14.7	Strive to prevent food waste, rescue and redistribute surplus food for people who need it, and compost the rest.
+CE 14.8	Reduce climate pollution associated with Seattle's food system and support regenerative food production practices that improve the environment.
+
+
+
+
+
+
+
+
+
+

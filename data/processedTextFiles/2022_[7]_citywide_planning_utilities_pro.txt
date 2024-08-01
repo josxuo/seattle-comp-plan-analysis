@@ -1,0 +1,176 @@
+Utilities
+
+Introduction
+Utilities are basic services that keep the city working. As a highly urbanized area, Seattle has a fully developed and comprehensive utility infrastructure system. This system provides energy, drinking water, water for fire suppression, drainage, sewers, solid waste management, and communications services throughout the city. These services are managed by different public and private providers that must share space within the city's street right-of­ way. Seattle City Light provides electricity throughout the city and beyond the city boundaries. Seattle Public Utilities provides drinking water, drainage and sewer systems, and solid waste services within the city limits. In addition, it provides water service directly or indirectly to much of King County. King County provides combined drainage and sewer services in portions of Seattle and is responsible for treating all wastewater generated in the city. The City's Department of Information Technology maintains an extensive data and fiber optic network. It shares conduit installation and maintenance with multiple partners, and leases excess fiber capacity to private providers.
+
+Privately owned utility companies also serve Seattle. These provide natural gas, district steam, and communications infrastructure and services. Additionally, various companies operate wireless communications facilities such as television, radio, and cellular phone towers and antennas. As the regulator of the public right-of-way, the City has limited control of private utilities. However, its agreements with cable companies do help ensure technical quality, protect customer rights, and support public services.
+
+As Seattle continues to grow over the coming years, the existing utilities infrastructure is well poised to accommodate new buildings, although some development strategies and construction modifications may be required to bring services to individual lots. With proper maintenance and strategic planning, the existing infrastructure will also be able to support this Plan's broader goals of sustainability, economic efficiency, and equitable service access for all Seattleites. The Utilities Appendix contains information about the Seattle City Light and Seattle Public Utilities systems, as well as about privately owned utilities providing natural gas, district steam, and other energy, and communications services.
+
+The utilities system will need to address historic conditions and respond to changing needs, technologies, and other factors in order to thrive over the next twenty years. The electrical system will have to increase capacity and become more reliable in order to adapt to emerging technologies such as local solar energy production and electric vehicles, while continuing to address climate change and maintaining a significant distribution system. The drinking water, drainage, and sewer systems will have to respond to new goals and regulatory mandates for water quality, as well as prepare for the impacts of a changing climate. At the same time, the drainage and wastewater utilities need to make updates to older systems that have produced combined sewer overflows and degraded creeks. The communications systems will need to grow to continue to address City, business, resident, education, health, service sector, and mobile communication needs.
+
+Future investments will need to help the City address race and social equity. Seattle must ensure that the burdens and benefits of high-quality utilities infrastructure are distributed equitably throughout the city. Future infrastructure investments should help rectify existing environmental and service disparities while supporting the health and economic opportunity of underinvested communities. These areas of the city are disproportionately impacted by environmental contaminants or lack of service such as high-speed Internet availability.
+
+The Utilities element of this Plan outlines goals and policies that will guide City decisions about providing and updating services. It also addresses emerging issues that utilities face. Seattle City Light and Seattle Public Utilities periodically prepare strategic plans that guide the work of the utilities consistent with this Plan. An inventory of existing infrastructure as well as the forecasted future needs for City-owned utilities are discussed in this element's appendix. The capital programs planned over the next six years are included in the City's most recently adopted Capital Improvement Program (CIP). Though this element focuses on how the City operates its own utilities, it also discusses how the City influences non-City utilities, such as communications, natural gas, and district steam.
+
+Service Delivery
+
+Discussion
+
+Utilities providers must plan strategically to invest in maintaining and improving service delivery within finite physical and financial resources. Decisions we make today will have long-term implications for our ability to serve a changing population. This section describes the overarching goals and policies that apply to all aspects of service delivery.
+
+GOAL
+
+U G1	Provide safe, reliable, and affordable utility services that are consistent with the City's aims of environmental stewardship, race and social equity, economic opportunity, and the protection of public health.
+
+
+POLICIES
+
+U 1.1	Provide equitable levels of service by accounting for existing community conditions, considering how decisions will impact varied geographic and socioeconomic groups, and making service equity a criterion in decision-making.
+
+U 1.2	Coordinate planning, programs, and projects for City utilities with those of other City departments to lower costs, improve outcomes, and limit construction and operational impacts.
+
+U 1.3	Strive to develop a resilient utility system where planning and investment decisions account for changing conditions, such as climate change, fluctuations in demand, technological changes, increased solar energy generation, and natural disasters.
+
+U 1.4	Support innovative approaches to service delivery, such as the development of distributed systems or joint ventures by City and non-City utilities, where they could further overall goals for utilities.
+
+U 1.5	Ensure that new private development provides adequate investments to maintain established utility service standards.
+
+U 1.6	Make utility services as affordable as possible through equitable delivery of utility discount programs and incentives.
+
+U 1.7	Leverage investments and agreements with private utilities and vendors to create training and living wage job opportunities, particularly for low-income and local residents.
+
+U 1.8	Support asset-management programs for the renewal and replacement of utility infrastructure.
+
+
+Utility Resource Management
+
+Discussion
+
+Natural resources such as water, fuel, and materials, as well as hydropower capacity, are the basic inputs and outputs of the City's utilities. Issues related to energy supply, water supply and disposal, and waste management are essentially about how these resources are used, changed, and released. While the City has adequate existing capacity to provide electricity, drinking water, and waste disposal over the next twenty years, proper stewardship of these resources is vitally important for meeting the utilities' key goals. These goals include reducing impacts on the environment and preparing for climate change and a growing population.
+
+This section describes how the utility providers manage energy supply, water supply and disposal, and materials to make the most effective use of these resources.
+
+
+GOAL
+
+U G2	Conserve potable water, electricity, and material resources through the actions of the utilities and their customers.
+
+
+POLICIES
+
+
+U 2.1 Use cost-effective demand management to meet the City’s utility resource needs,
+and support such practices by wholesale customers of City utilities.
+U 2.2 Consider short-term and long-term environmental and race and social equity
+impacts related to acquiring and using natural resources.
+U 2.3 Remain carbon neutral in the generation of electricity by relying first on energy
+efficiency, second on renewable resources, and third, when fossil fuel use is
+necessary, on offsetting the release of greenhouse gases.
+U 2.4 Strive to be carbon neutral in the delivery of drinking water, drainage, sewer, and
+solid waste services, both directly and through partnerships with private utilities
+and vendors.
+U 2.5 Pursue the long-term goal of diverting most of the city’s solid waste away from
+landfills by increasing recycling, composting, and promoting products that are
+made to be reused, repaired, or recycled back into nature or the marketplace.
+U 2.6 Prevent pollutants and high water flows from damaging aquatic systems by
+preserving native vegetation, limiting impervious surfaces and stormwater runoff,
+reducing contamination of street runoff and stormwater, addressing combined
+sewer overflows, and minimizing illegal discharges into water bodies.
+U 2.7 Provide opportunities for marginalized populations to participate in conservation
+programs provided by the City’s utilities and through partnerships with private
+utilities and vendors.
+U 2.8 Monitor waste reduction programs and develop new strategies when goals are not
+being met.
+
+
+Utility Facility Siting and Design
+
+Discussion
+
+New substations, reservoirs, pump stations, green stormwater facilities, treatment facilities, and other utility infrastructure represent substantial long-term investments. As capacity increases and demand changes throughout the city, Seattle may need to add new utility facilities. Since the location and design of these facilities can have major impacts on their long-term cost and effectiveness, we must consider a wide range of perspectives in making these decisions. For example, siting and design decisions may impact efficiency, equity of
+
+service provision, environmental outcomes, and our ability to serve a growing population. We must also take existing conditions into account, such as the historical concentration of large polluting industries and utility operations in areas that also house low-income, racially diverse communities. By considering a range of desired outcomes for new facilities, the City can also design facilities that meet a broad range of utility goals.
+
+The following policies address the location and design of Seattle's utility facilities.
+
+
+GOAL
+
+U G3		Site and design facilities so that they help to efficiently and equitably provide services to all Seattleites and provide value to the communities where they are located.
+
+
+POLICIES
+
+
+U3.l Consider and budget for the potential operation and maintenance costs of new facilities when developing them.
+
+
+
+U3.2 Discourage siting and design alternatives that may increase negative impacts, such as traffic, noise, and pollution, particularly in communities that already bear a disproportionate amount of these impacts.
+
+
+U 3.3	Apply consistent and equitable standards for the provision of community and customer amenities when they are needed to offset the impact of construction projects, ongoing operations, and facility maintenance practices.
+
+
+U 3.4 Build facilities that are models of environmental stewardship by including high
+levels of energy, water, and material efficiency, effectively managing stormwater onsite,
+prioritizing local and environmentally preferable products, and limiting waste.
+U 3.5 Consider opportunities for collocating facilities, allowing mixed-use development,
+or creating accessible open space when siting and designing utility facilities,
+provided doing so would still allow for safe and secure utility operations.
+U 3.6 Consider future climate conditions during siting and design, including changes
+to temperature, rainfall, and sea level, to help ensure capital facilities function
+properly as intended over their planned life cycle.
+U 3.7 Consider and address the disproportionate impacts of climate change on
+communities of color and lower-income communities when prioritizing projects.
+
+Coordination within the Right-of-Way
+
+Discussion
+
+Above, below, and on the ground, Seattle's roads, paths, and other right-of-way spaces contain a vast array of utility infrastructure. Pipes, conduits, wires, poles, service vaults, storage tanks, pollution-control structures, streetlights, gutters, swales, and infiltration facilities are carefully integrated into the city's overall landscape. Due to limited space, however, the way these facilities are placed and maintained must be carefully managed. The City must work to minimize conflicts between the utilities and other uses of the right-of-way, as well as to make sure that infrastructure investments are well maintained.
+
+At the same time, new investments in these facilities-particularly projects that result in opening the pavement-also provide opportunities to improve a variety of existing facilities and meet multiple objectives. Consequently, the City should look for opportunities to share costs, undertake joint projects, or otherwise consider the goals of other departments when undertaking projects in the right-of-way.
+
+GOAL
+
+U G4		Coordinate right-of-way activities among departments to meet transmission, distribution, and conveyance goals; to minimize the costs of infrastructure investment and maintenance; to manage stormwater; and to support other uses such as transportation, trees, and public space.
+
+
+POLICIES
+
+U 4.1	Engage departments in early coordination and collaboration on transportation and utility projects in the right-of-way to avoid space conflicts, identify joint project opportunities, and minimize life-cycle costs across all City departments.
+
+U 4.2	Coordinate construction to limit cost and public inconvenience caused by road and right-of-way disruption.
+
+
+Non-City Utilities
+
+Discussion
+
+There are a few ways the City generally works with non-City utilities, such as natural gas, district steam, and communications providers. The City reviews street use permits, coordinates projects, creates development and leasing policies, and executes franchise agreements or
+
+programmatic term permits. These relationships offer opportunities to improve service provision for customers, reduce the impacts of construction, and encourage non-City utilities to work toward City goals. Specific policies about the location of communications facilities are included in the Land Use element. The following policies address the operation of non-City utilities in Seattle generally.
+
+GOAL
+
+U G5	Work with non-City utilities to promote the City's overall goals for utility service and coordinated construction within the right-of-way.
+
+
+POLICIES
+
+
+U 5.1 Provide affected non-City utilities with timely and effective notices of planned road
+and right-of-way trenching, maintenance, and upgrade activities.
+U 5.2 Support competition among private providers by giving equitable access to the
+right-of-way for all data and telecommunications service providers to reach their
+customers.
+U 5.3 Encourage improvements in the communications system to achieve the following:
+• Universal and affordable access for residents, businesses, and institutions
+within Seattle, particularly for marginalized populations
+• Customer options and competitive pricing
+• Consumer privacy, system security, and reliability
+• State-of-the-art services
+
+

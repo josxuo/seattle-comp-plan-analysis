@@ -1,0 +1,332 @@
+Housing
+Introduction
+
+A Vision of Housing Abundance
+The One Seattle Plan envisions a future where everyone in Seattle has housing that meets their needs. When housing is safe, affordable, and abundant, we can fulfill many of our goals for the future. Households achieve the stability necessary to build roots in their community. Families have plentiful options to grow, shrink, and meet their changing needs. People have the mobility to access jobs and educational opportunities, local businesses have a customer base that sustains them, and employers can attract and retain workers. Achieving housing abundance is fundamental to addressing our homelessness crisis, redressing historical patterns of segregation and exclusion, and creating opportunities for displaced residents to return to their communities.
+Achieving this vision will require us to address the root causes of Seattle's longstanding housing crisis. Despite substantial construction in recent years, housing supply has not kept up with population and employment growth, causing an overall shortage of homes that drives up rents and
+
+sales prices. Most new housing production has been small rental apartment units in areas long designated as Urban Centers and Villages in Seattle's Comprehensive Plan. Despite growing our investments in affordable housing, we are far from meeting the housing needs of low-income people who currently live, work, or wish to live in Seattle but cannot afford market prices. As prices rise, households must devote more and more of their income toward housing costs, leaving less for other basic needs, and straining their ability to save towards homeownership.
+This crisis forces many to leave their communities, with ripple effects throughout our city and region. Families who relocate to find a suitable and affordable home must endure longer commutes from suburban locations with consequent environmental and health impacts. Low-income households are displaced, with the greatest impacts on people of color, immigrants, and refugees who have less income and wealth, have withstood generations of institutionalized racism, and face ongoing discrimination in housing. Ultimately this causes more people to lose their housing entirely, as a $100 increase in median rent is associated with a nine percent increase in homelessness. 1
+
+A Legacy of Racial Exclusion and Inequity
+Today's housing crisis has its origins in a long history of racial discrimination, beginning with the arrival of white European settlers to the Pacific Northwest in the 1840s. At that time Washington was part of the Oregon Territory and subject to the Black exclusion laws that forbade Black people from settling or owning property in the region. Early laws in Seattle barred Indigenous people form residing within city limits.
+In the 20th century, land use and housing became tools of racial segregation. Seattle's first zoning ordinance, adopted in 1923, was crafted by a planner who touted zoning's power to "preserve the more desirable residential neighborhoods" and prevent movement into "finer residential districts ... by colored people." 2 It established for the first time areas reserved for detached housing, which the City's zoning commission promoted as a way to prevent "lowering...the standard of racial strength and virility," that expanded over time through periodic downzoning. 3
+Racially restrictive covenants reinforced this pattern. Written into private property deeds, racial covenants limited the sale and use of property based on race, ethnicity, and religion, making many Seattle neighborhoods inaccessible to people of color. In the limited areas where people of color were allowed to live, the practice of redlining typically rendered them ineligible for government- backed home loans. To determine areas safe for mortgage lending, the Federal government explicitly referenced neighborhoods' racial composition, citing the presence of racial restrictions in
+
+
+1 GAO-20-433
+2 In The Color of Law, Rothstein reveals the racial motivations of many regulators who devised zoning schemes to circumvent the 1917 Buchanan decision. See also https://www.epi.org/publication/making-ferguson.
+3 Excerpt from "A Zoning Program for Seattle." Record Series 1651-02 Box 1, Folder 1. Seattle Municipal Archives.
+
+neighborhoods deemed creditworthy while demarcating in red to signify "hazardous" those places with greater shares of people of color.
+The legacy of these practices, which the Housing Appendix details further, persists today, visible in the lasting segregation across Seattle, racial wealth and homeownership gaps, and the restricted housing choices and market pressures at the root of our displacement crisis.
+
+Addressing These Challenges
+How do we redress this history and address ongoing disparity, high housing costs, and displacement? This Housing element includes three key strategies:
+INCREASE HOUSING PRODUCTION
+First, the Housing element complements this Plan's Growth Strategy by promoting more housing production overall, of diverse types and throughout all neighborhoods. This is necessary to meet the needs of a diversifying population, keep pace with demand as the region continues to grow, and address past underproduction. This Plan also promotes a streamlined and predictable permitting process for housing.
+INVEST IN AFFORDABLE HOUSING
+Second, this Plan supports resources, investment, and a variety of tools to address housing needs unmet by the market. Despite historic levels of investment in affordable housing for low-income households, we continue to fall far short of the need. The Housing element promotes significant public investment to produce and preserve rental units and to create homeownership opportunities for people with incomes too low to afford housing in Seattle. This Plan also supports land use rules that boost our ability to add income-restricted affordable units in all neighborhoods.
+IMPLEMENT MEASURES TO PREVENT DISPLACEMENT
+Third, along with expanded supply and investments, this Plan supports a broad array of anti- displacement strategies to keep vulnerable households in place and cultural communities intact. Affordable housing itself is a primary anti-displacement measure. Measures to protect low-income tenants from rent increases and eviction and preserve housing affordable to them are critical.
+Additional tools focus on stabilizing communities, increasing community ownership, and redressing past discrimination and exclusion, particularly for Black and Indigenous communities. 4, 5
+
+
+4 Africatown Community Land Trust and E'lip Tilikum Land Conservancy are two examples of these efforts.
+5 The Plan's anti-displacement framework also includes protecting tenants vulnerable to rent increases and eviction, preserving housing affordable to low-income households, investing in cultural anchors to prevent cultural displacement, expanding education and economic opportunity, and providing options for lower-income people to live near transit and employment.
+
+What is Affordable Housing?
+Affordable housing can be created through public subsidy or other action to meet the needs of people who cannot afford market housing. In Seattle, the City's Office of Housing (OH) invests public resources in the creation and preservation of affordable housing and administers programs that support and stabilize low-income residents. Other public-sector organizations also provide affordable housing, including the Seattle Housing Authority and independent public development authorities (PDAs) like SCIDpda, the Seattle Indian Services Commission (SISC), Community Roots Housing, and the newly created Seattle Social Housing Developer. 6 Seattle currently has more than 17,000 City-funded affordable units and is a national leader in municipal investment in affordable housing.
+Most lower-income households, however, live in market-rate housing. Some market housing may be comparatively lower cost due to its location, size, quality or condition, or other characteristics. Low- cost market-rate housing is both a critical way low-income people find housing in our community - and a distinctly less reliable one since its residents can be vulnerable to sudden rent increases. Low- income households typically pay a large share of their income on housing costs or make other sacrifices like sharing living space with other housemates, delaying having children, or foregoing homeownership.
+The term Area Median Income (AMI) refers to different levels of household income and to housing affordable to those households. AMI for Seattle is based on income information published calculated annually by the U.S. Department of Housing and Urban Development (HUD) for the combined areas of King County and Snohomish County. Housing regulated by local, state, or federal agencies is for households with incomes at or below a particular AMI level. The maximum rent or sales price for the housing and the maximum income limit of households eligible for the housing varies by the number of bedrooms in the unit and the size of a household.
+The following table approximates the income equivalents for select AMI levels, as adjusted for household size. In this Housing element, policies for City regulated affordable housing refer to households within specific income ranges (generally at or below 60% of AMI for rental or at or below 80% of AMI for ownership) and other policies refer more broadly to households in all categories of need (at or below 120% of AMI).
+
+
+6 The newer Cultural Space Agency PDA has a complementary mission to secure long-term affordable cultural space with a focus on the needs of Black and Indigenous communities. Cultural space is addressed in the Arts and Culture element.
+
+Area Median Income Levels, Figure 17
+
+Annual Household Incomes by Area Median Income (AMI) Level 7
+
+AMI level
+1-person household income
+2-person household income
+3-person household income
+4-person household income
+30% AMI
+$30,750
+$35,150
+$39,550
+$43,950
+50% AMI
+$51,300
+$58,600
+$65,950
+$73,250
+80% AMI
+$82,050
+$93,750
+$105,500
+$117,200
+100% AMI
+$102,550
+$117,200
+$131,850
+$146,500
+120% AMI
+$123,050
+$140,650
+$158,200
+$175,800
+
+Washington state's Growth Management Act requires that jurisdictions "plan for and accommodate" housing affordable to all economic segments of the population. This includes:
+Permanent housing units for households with incomes 0-30%, 30-50%, 50-80%, 80-100%, and 100-120% of AMI, accounting for both projected future household growth and existing unmet housing needs at each income level.
+Permanent supportive housing (PSH), which is publicly funded low-income housing paired with on- or off-site voluntary human services to support people living with behavioral or physical health conditions and currently or at risk of experiencing homelessness.
+Emergency housing that provides temporary indoor accommodations for individuals or families who are homeless or at imminent risk of becoming homeless in forms such as
+short-term apartments, hotel rooms, traditional shelter arrangements, shelters for victims of domestic violence, and tiny home villages.
+Based on county-level growth projections allocated to cities by the King County Growth Management Planning Council (GMPC), Seattle is responsible for accommodating certain minimum housing needs, totaling 112,000 units, over a 25-year period (2019-2044) in each category. The greatest need is among extremely low-income households, with more than 43,600 units needed for households with incomes at or below 30% of AMI, which will require substantial subsidy. Subsidy will
+
+
+
+
+
+
+7 Estimated household incomes for each AMI level in Table X are calculated based on the HUD-published Median Family Income (MFI) for fiscal year 2023 ($146,500 for a family of four), as adjusted for household size. This table is provided for general reference. Income limits for regulated affordable housing vary according to specific housing covenants. Income limits for City-regulated affordable housing are available on the Office of Housing's website.
+
+likely also be needed for 19,000 additional units affordable to households with incomes of 30-50% of AMI. The estimated need also includes roughly 8,000 units for households with incomes of 50-80% of AMI, 5,400 units for households with incomes of 80-100% of AMI, and 6,100 units for households with incomes of 100-120% of AMI.
+The goals and policies in this Housing element are informed by extensive data and analysis in the Housing Appendix, covering a range of topics that includes housing production, household characteristics, demographic trends, development capacity, and growth targets and future need projections adopted by the GMPC.
+
+
+Overarching Vision
+DISCUSSION
+The policies in this section broadly support our vision for housing in 2044, where diverse housing choices, affordable to people of all income levels and suitable to all types of households, exist in every Seattle neighborhood. People who work in Seattle, who relocate from elsewhere in search of opportunity or safety, and who are struggling with housing insecurity or homelessness can all find a stable and suitable place to live. Families can grow and shrink over time and fulfill their changing household needs. Through affordable homeownership, particularly permanently affordable homeownership opportunities, households achieve stability. Affordable rental housing provides flexibility for people at various stages of life and helps make it possible for people to achieve other goals, like saving to buy a home, sending children to college, or starting a business. In this vision, after more than a century of racist and exclusionary housing and land use practices, racial disparities in housing outcomes are closing.
+GOAL
+
+H G1	Housing in Seattle provides stability, expands access to opportunity, and closes racial and class disparities for all who seek to live in Seattle.
+POLICIES
+
+H 1.1	Implement strategies and programs that preserve, improve, and increase Seattle's housing supply to accommodate current and projected future housing needs, including units affordable to households in all categories of need.
+H 1.2	Implement strategies and programs to ensure a range of rental and ownership housing opportunities affordable for Seattle's workforce.
+H 1.3	Evaluate housing disparities based on race, ability, income, other protected classes, and geography to identify zoning, programmatic, and investment actions designed to close identified racial disparities and address past discriminatory housing and land use practices.
+H 1.4	Develop housing strategies that reflect the values and meet the specific needs of communities most impacted by housing discrimination and injustice.
+
+Meeting Seattle's Housing Needs
+DISCUSSION
+Seattle was one of the fastest-growing large cities in the country over the last decade. From 2010 to 2020, the number of jobs in Seattle rose 38 percent, but our housing supply grew by only 19 percent. 8 Simply put, despite recent construction, we have not built enough housing overall to keep pace with employment and population growth. This shortage has many factors, including regulatory barriers in our zoning that limit where housing can be built, increases in construction costs, and the complex and lengthy process homebuilders must navigate. The net result of housing scarcity is greater competition that drives housing prices upward.
+Boosting the supply of housing plays a major role in making Seattle and the region more affordable. When housing is scarce, regional growth pushes prices further out of reach. While market housing can cause instability for low-income households vulnerable to sudden rent increases, increasing its supply nonetheless relieves pressure on the finite public resources we can invest in affordable housing. Accordingly, this Plan embraces a dual strategy of expanding the supply of both market and, discussed further below, below-market housing to address our current and future needs. This section promotes expanding production of all housing types.
+GOAL
+
+H G2	Seattle's housing supply expands sufficiently to meet current and projected future needs for housing suitable and affordable for all economic and demographic groups.
+POLICIES
+
+H 2.1		Expand capacity for housing development broadly to encourage market production that meets short- and long-term housing needs, reduces upward pressure on costs caused by scarcity, accommodates current and projected future growth, and accounts for past underproduction of housing.
+H 2.2	Monitor regularly the supply, diversity, tenure, and affordability of housing in Seattle, the impact of development regulations on housing production, and demographic information about Seattle households, and use this information to support and evaluate strategies and policies to meet housing needs and advance racial and social equity.
+H 2.3	Promote the production of housing with lower market price points, including by removing regulatory barriers, to meet Seattle's projected 20-year affordable housing needs.
+
+
+8 PSRC Covered Employment dataset and 2010 and 2020 decennial Census counts from the U.S. Census Bureau.
+
+H 2.4	Recognize the role of rental housing owners in growing and operating Seattle's housing supply, particularly small-scale apartment buildings, and pursue strategies that help them successfully operate rental housing, maintain health and safety, preserve affordability, and comply with tenant protections.
+
+DISCUSSION
+In November 2023, Seattle residents voted to renew the Housing Levy at a record high of $970 million. Even with historic investments in affordable housing, Seattle is falling far short of being able to meet the full need for rental and ownership housing affordable to people with low incomes, especially renter households with incomes at or below 30% of AMI and buyer households with incomes at or below 80% of AMI.
+The Housing Appendix provides a comprehensive overview of the range of housing assistance programs funded by the City along with an analysis of the gap between existing funds, including City capital funds, and projected housing needs.
+The policies below guide Seattle towards greater affordability by meeting the needs of households with lower incomes who cannot afford rising rents and sales prices and struggle to withstand the volatility of our housing market. They address both public investment and regulations to achieve this goal and complement the critical role of increasing housing supply to reduce pressure on the finite public resources available for affordable housing. The policies support maintaining and expanding public and private funding, including substantial new federal funding sources, to meet the capital and operating, maintenance, and services (OMS) costs of producing and preserving sufficient affordable housing.
+GOAL
+
+H G3	People whose housing needs are unmet by the market can live affordably in Seattle.
+POLICIES
+
+H 3.1	Pursue public and private funding sources, and advocate for robust Federal funding, for preservation and production of income-restricted affordable housing, including housing for people with special needs, people experiencing or at risk of experiencing homelessness, and others struggling or unable to afford housing in Seattle.
+H 3.2	Expand housing preservation and production programs that ensure long-term affordability for income-eligible households and continue to prioritize efforts that address the needs of Seattle households with incomes 30% of AMI or less.
+H 3.3	Create a more diverse and inclusive city by building and preserving income-restricted affordable housing in all Seattle neighborhoods.
+H 3.4		Invest in income-restricted affordable housing near frequent transit with the goals of lowering the combined housing and transportation costs of residents, enabling lower-wage workers to live nearer their jobs, and reducing GHG emissions.
+
+H 3.5	Reduce the burden of housing-related costs, including utilities, among households in all categories of need.
+H 3.6	Renew investment in existing income-restricted affordable housing to ensure ongoing affordability, health, and safety for residents.
+H 3.7	Fund acquisition and rehabilitation of multifamily housing to achieve long-term affordability and housing stability for lower-income households.
+H 3.8		Support opportunities when housing sites are redeveloped to increase the number and longevity of units serving lower-income households, particularly renters and buyers with the greatest housing needs.
+H 3.9	Promote redevelopment of suitable publicly owned sites for income-restricted affordable rental and ownership housing.
+H 3.10	Waive or modify development standards and requirements for construction of income-restricted affordable housing to reduce costs, delays, and uncertainty in the development process.
+H 3.11	Encourage and advocate for new federal, state, and county laws, regulations, programs, and incentives that would increase the production and preservation of income-restricted affordable housing.
+H 3.12	Use a range of tools to create income-restricted affordable units with new market development, including development regulations, inclusionary zoning, incentives, and permit fee reductions, where the public benefits provided are commensurate with the benefit to the development, are racially equitable, and prioritize housing for households most in need.
+H 3.13	Use property tax exemptions that produce affordable units not available in the market if revenue reductions are balanced with the public benefit provided, shifts in tax burden are equitable, and the exemptions enable ongoing stability for income- eligible residents.
+H 3.14	Consider strategies that incentivize owners to upgrade older lower-cost residential properties in exchange for income and rent restrictions on a share of the units.
+H 3.15	Consider using substantive authority available through the State Environmental Policy Act to require that new development mitigate adverse impacts on housing affordable for lower-income households.
+H 3.16	Consider implementing programs that require affordable housing with new development, with or without rezones or changes to development standards that increase development capacity.
+H 3.17	Encourage creation of affordable ownership housing as part of new market development.
+
+H 3.18	Create opportunities for households with incomes up to 80% AMI, including families with children, to purchase a permanently affordable home in Seattle.
+H 3.19	Support programs that promote homeowner stability, health, and safety, and reduce energy bills and the costs of home repair and weatherization.
+H 3.20	Consider requiring production and preservation of income-restricted affordable housing as part of major institution master plans and development agreements to mitigate impacts of housing demolition or employment growth.
+H 3.21	Encourage employers to fund housing affordable to their workforces.
+
+
+Equitable Access to Housing
+DISCUSSION
+Housing is a basic human necessity that everyone deserves to be able to access, free from discrimination and regardless of their ability to afford prices set by the market. Under the federal Fair Housing Act, landlords cannot discriminate against or in favor of any individual or group based on race, religious, national origin, sex, color, disability, or family status (meaning pregnancy or the presence of children under 18). These are considered protected classes under the law. The State of Washington and City of Seattle have each expanded these protections to additional classes, including marital status, sexual orientation, gender identity, age, use of Section 8 voucher, political ideology, and veteran or military status. These protections increase housing choices for people of all incomes and backgrounds and are fundamental to our vision of an equitable and inclusive city.
+Equitable access also includes addressing barriers like zoning that limit the types and location of new housing. In most of Seattle, relatively lower-cost housing forms, like smaller rental apartments, are prohibited. This limits who can afford to live in places with good access to parks, safe streets, and schools and makes it very difficult for the City to invest in affordable homes for low-income households in these neighborhoods. Where past policies and practices explicitly excluded people from these areas on the basis of race, today the high cost of scarce housing perpetuates economic exclusion.
+This section supports removing these barriers by encouraging more diverse, affordable, and accessible housing in all neighborhoods. It includes strategies to ensure the City's investments in affordable homes and other housing resources, like rental assistance, are shared proactively with the households most in need by addressing language barriers, disparities in access to technology, and discriminatory practices.
+GOAL
+
+H G4	All people seeking housing in Seattle have fair and equitable access to housing.
+
+POLICIES
+
+H 4.1	Help create a culture where everyone knows, understands, and respects the fair housing rights protected by federal, state, and local laws.
+H 4.2	Promote fair housing choices and foster racially inclusive communities free from discrimination through actions like fair housing education and enforcement.
+H 4.3	Use tools like affirmative marketing, pre-screening, in-language support, and centralized resources to help housing operators achieve fair housing goals and help households otherwise unlikely to apply for affordable housing become aware of vacancies, feel welcome to apply, and face fewer barriers to accessing housing.
+H 4.4	Remove barriers that prevent households from using rental assistance in all Seattle neighborhoods, including by providing information in culturally and language appropriate formats.
+H 4.5	Remove zoning and building code barriers that prevent the development of comparatively lower-cost forms of housing, particularly in residential neighborhoods with a history of racial exclusion.
+H 4.6	Use development standards and incentives to increase the feasibility of low-income housing in all Seattle neighborhoods, particularly to further fair housing in neighborhood residential areas where such housing is scarce today.
+H 4.7	Support programs and investments that seek to address racial disparities in homeownership and lending practices, including homebuyer education, capacity building, estate planning, and financial assistance, especially those led by culturally relevant community-based organizations.
+H 4.8	Identify and remove barriers to stable housing for individuals and families, like unlawful housing screening practices that restrict access to housing on the basis of criminal history.
+H 4.9	Ensure that engagement with the neighbors of proposed publicly funded affordable housing is inclusive and culturally sensitive and furthers fair housing.
+H 4.10	Seek to ensure that renter and buyer households in all categories of need benefit and avoid harm from clean energy and other green new deal policies related to housing.
+
+
+Housing Security and Stable Communities
+DISCUSSION
+Throughout Seattle's history, growth has not unfolded equitably, leading low-income households and communities of color to experience insecurity and displacement. In the past, this occurred
+
+through treaties and laws that forcibly removed Native people from their land and racist practices that restricted access to homeownership, neighborhoods, and opportunity. Today, displacement occurs in a context of rapid population and economic growth, where scarcity and market demand drive unregulated housing and land prices upward, leaving people with less income and wealth and who face barriers to accessing housing most vulnerable to displacement.
+In practice, displacement can unfold in several ways:
+
+Physical displacement can occur through eviction, acquisition, rehabilitation, or demolition of housing; when covenants expire on rent-restricted housing; and due to other factors, such as climate impacts.
+Economic displacement happens as housing becomes less affordable and residents can no longer weather rising rents or the costs of homeownership, like property taxes.
+Commercial displacement, though not directly related to housing, is when these pressures affect small businesses, many of which rent their space and are subject to market prices.
+Cultural displacement occurs as residents relocate because their cultural community is leaving, and culturally relevant businesses and institutions lose their customer base or membership.
+Exclusionary neighborhoods also fuel displacement by pushing households to lower-cost neighborhoods, increasing pressures on the housing supply there.
+While renter households face particular vulnerability due to their exposure to rent increases, homeowners with lower incomes and fewer resources also experience displacement pressure from the burden of property taxes and via predatory behaviors and speculation by investors and developers.
+In recent years, the City has built up a range of anti-displacement tools, including robust protections for renters, regulations and funding sources for affordable housing, and investments through the Equitable Development Initiative (EDI) in community-driven and -led projects. The One Seattle Plan envisions a future where growth in Seattle welcomes newcomers, helps community members remain and thrive in place, and creates pathways so former residents who have been displaced can return to their communities. This section establishes a policy basis for the anti-displacement strategies the City will carry out with its partners and community.
+GOAL
+
+H G5	As Seattle grows and develops, residents and communities can remain in place and thrive, particularly those facing displacement pressure and who have experienced exclusion and housing discrimination.
+POLICIES
+
+H 5.1	Regularly evaluate present and potential future physical, economic, and cultural displacement, particularly among BIPOC communities, immigrants and refugees, low-income people, people with disabilities, and other vulnerable populations, as well as the effectiveness of City efforts to mitigate displacement.
+
+H 5.2	Identify tools and resources to address financial, educational, and regulatory barriers facing homeowners with incomes 120% of AMI or less who seek to retain, redevelop, or add housing on their property, particularly barriers that disproportionately affect homeowners of color and within communities with a documented history of housing discrimination like redlining.
+H 5.3	Require advance notice to all tenants and payment of relocation assistance to income-eligible tenant households before issuing permits for housing demolition, change of use, or substantial rehabilitation; before removing use restrictions from income-restricted affordable housing; and before a substantial increase in housing costs takes effect.
+H 5.4	Analyze and seek to minimize the potential loss of low-cost housing units due to demolition, rehabilitation, or rent increases ahead of zoning and other land use policy changes.
+H 5.5	Take steps ahead of zoning changes to protect homeowners against predatory behaviors, such as by reaching out to residents in communities at risk of displacement, disseminating culturally relevant educational resources, and discouraging speculative practices.
+H 5.6	Establish requirements and pursue funding for a housing acquisition strategy that creates opportunities for qualified nonprofits to purchase market-rate housing to preserve long-term affordability and maintain or increase housing quality.
+H 5.7	Explore tenure conversion strategies that create opportunities for tenants to purchase their housing and support community-based organizations working to help those tenants.
+H 5.8		Support the efforts of religious, arts and culture, and heritage organizations, particularly those addressing displacement in BIPOC communities, to develop needed rental and ownership affordable housing.
+H 5.9	Provide financial, regulatory, and technical support for community-based developers working to help BIPOC homeowners and prospective homebuyers avoid displacement, achieve or retain homeownership, or return to their cultural communities.
+H 5.10	Pursue and support strategies like land banking and housing acquisition to increase affordable housing choices for renter households with incomes 60% AMI or less and buyer households with incomes 80% of AMI or less in areas with a high risk of displacement and in current and future station areas.
+H 5.11	Support the efforts of Native-led and -serving nonprofits and community organizations to acquire and conserve land for affordable housing, cultural space, gathering space, and other programming that honors and meets the needs of urban Native and Indigenous people.
+
+H 5.12	Establish and provide funding to implement a right to legal counsel for tenant households facing eviction who cannot afford an attorney.
+H 5.13	Support and strengthen property tax relief for low- and fixed-income homeowners, through deferrals, exemptions, and incentives, including those that may require changes in local, county, or state law.
+
+
+Diversity of Housing Types
+DISCUSSION
+Seattle's overall housing supply has increased in recent years, but certain housing types remain in short supply. From 2016 to 2022, 68% of new units were in multifamily buildings with 50 units or more. Townhouses comprised only 15% of new housing units, in part because of limited land area where zoning allows them. Just 6% were new detached homes despite 72% of land zoned for housing reserved for that type. Accessory dwelling unit (ADU) production increased fourfold between 2019 and 2022, demonstrating the demand that exists for smaller, lower-cost homes in high-opportunity neighborhoods, if we allow them to be built.
+The multifamily flats that account for most recent housing development are critical for housing our growing population. Most are studio and one-bedroom units that provide comparatively lower-cost options, in buildings of four to seven stories at densities that make frequent transit viable. But this narrow range of housing types doesn't work well for all households. The One Seattle Plan sets a course where, by 2044, housing in Seattle meets a broader range of needs, including:
+creating affordable options suited to families with children and larger households;
+serving people with accessibility or mobility needs with universal design features and one- story layouts;
+planning for older adults to age in place with services nearby; and
+increasing condominiums, co-ops, and smaller homes that lower the bar to homeownership.
+GOAL
+
+H G6	Seattle offers a full range of housing types that provide opportunity and choice in all neighborhoods for people of various ages, races, ethnicities, cultural backgrounds, and abilities and for all household sizes, types, and incomes.
+POLICIES
+
+H 6.1	Allow and encourage a wide range of housing types that meet the needs of current and future households in Seattle.
+H 6.2	Allow and promote innovative and nontraditional housing designs to accommodate residential growth and provide choices with comparatively lower prices, including through incentives, alternative development standards, and pilot programs to test new housing types.
+
+H 6.3	Increase housing opportunities for older adults and people with disabilities by promoting universal design features in new and renovated housing and housing that allows for independent living, various degrees of assisted living, and/or skilled nursing care, particularly near health care and other services and amenities.
+H 6.4	Encourage in all neighborhoods the development of housing suitable for families with children, larger households, and multigenerational living and affordable for households with a broad range of incomes.
+H 6.5	Allow and encourage greater production and variety of housing types in neighborhood residential areas, including options that lower the bar for entry to homeownership and help meet the housing needs of renters, people with disabilities, older adults, and small households.
+H 6.6	Encourage and promote the construction of small-scale attached housing and stacked flats, such as by addressing the impacts of code requirements and permitting process on development cost and feasibility.
+H 6.7	Advocate for state legislation to encourage production of condominiums and co- operatives, including by mitigating risks associated with warranty liability.
+H 6.8	Allow small housing units that, by virtue of their size, might have market rents affordable to people with minimum wage jobs.
+
+
+Housing Construction, Quality, and Design
+DISCUSSION
+In addition to meeting the affordability needs of current and future residents, Seattle's housing must also achieve several other critical goals related to safety, health, energy efficiency, and livability. Our homes are where we spend much of our time, especially with the rise of remote work. The indoor environment where we live therefore has a major effect on our physical and mental health, and life safety depends on the quality and durability of the structures we reside in.
+The City enforces regulations intended to protect health and safety, like the Residential Code, the Building Code, and the Housing and Building Maintenance Code. Most Seattle households live in rental housing, and the Rental Registration and Inspection Ordinance (RRIO) helps ensure that it is safe and meets basic housing maintenance requirements through regular inspections.
+When it comes to climate goals, buildings account for more than one-third of Seattle's GHG emissions, and housing comprises a large portion of new construction in Seattle. Reducing energy usage and promoting resiliency strategies in new and existing housing is an important way we can prepare for the effects of climate change and reduce impacts on our most vulnerable residents in the future.
+
+This section promotes a range of strategies to ensure that the city's housing supply achieves these objectives, and it does so in a way that makes benefits available for all, regardless of income, race and ethnicity, disability, national origin or citizenship, or household type, and mitigates impacts on lower-income households, including potential risk of displacement or retaliation as a result of code enforcement.
+GOAL
+
+H G7	Seattle's housing supply is healthy, safe, and carbon-neutral, reflects and embraces culturally relevant design principles, and can adapt to changing demographic conditions.
+POLICIES
+
+H 7.1	Provide programs, regulations, and enforcement to help ensure that all housing is healthy and safe and meets basic housing-maintenance requirements.
+H 7.2	Adopt zoning, development, and permitting standards that accommodate or incentivize new construction methods and materials, including mass timber, cross- laminated timber (CLT), and similar wood-based building products that promote circular and bio-economic benefits, and encourage further innovation in residential design, construction, and technology to reduce carbon footprints, accelerate building assembly, and provide seismic durability.
+H 7.3	Implement regulations and incentives for housing construction and operations to conserve water, energy, and materials; reduce greenhouse gas emissions; limit increases in water runoff; create habitable and healthy indoor environments; and reduce other environmental and health impacts.
+H 7.4	Support property owners to electrify their buildings and make other climate resiliency and energy efficiency retrofits, such as cooling, prioritizing assistance that benefits lower-income households.
+H 7.5	Promote opportunities to combine housing and historic preservation efforts by rehabilitating structures of historic value for residential use.
+H 7.6	Explore strategies for converting nonresidential uses to housing, particularly those that produce units serving households with incomes 80% of AMI or less.
+H 7.7	Adopt development regulations that encourage new construction or modification of housing that accommodates the needs of older adults, including accessible units, intergenerational care facilities, and community space suited to elders.
+H 7.8	Promote and remove barriers to construction of new construction or modification of housing that incorporates accessibility and universal design features to meet the needs of people of all abilities.
+
+H 7.9	Promote unit, building, and site designs and layouts that accommodate and incorporate open space, communal areas, and gathering spaces to support cultural placemaking, community cohesion, shared living, and belonging.
+H 7.10	Promote, reflect, and accommodate Native art, language, traditional knowledge, and design principles in Seattle's housing, based on the guidance of Indigenous artists, architects, and designers.
+
+
+Homelessness
+DISCUSSION
+Homelessness remains one of the biggest challenges confronting Seattle. In 2015, the City first declared a State of Emergency for homelessness. Despite intentional efforts and substantial spending, the emergency has worsened since the beginning of the COVID-19 pandemic. While support for shelter, outreach, services, and other resources is critical, the only way to ensure lasting progress on the homelessness crisis is to address the housing affordability crisis.
+Homelessness is fundamentally a housing issue with multiple root causes and contributing factors, including:
+Affordability. Homelessness starts with an inability to afford a safe place to reside indoors. In Seattle, challenges like rising home prices, scarce affordable housing choices, and income inequality are particularly acute. When residents lack a strong safety net and stable housing is unaffordable, the loss of a job, medical expenses, or other economic hardships can precipitate homelessness. Youth who age out of foster care at age 18 often struggle to access assistance, with more than one-third becoming homeless within one year. 9
+Equity. Homelessness disproportionately impacts people of color, especially Black and American Indian/Alaska Native communities who have been impacted by a long history of race-based discrimination in housing, land use, and finance. These communities comprise only 7% of the total County population, but together comprise about 35% of the households receiving homelessness services in King County.
+Health. Homelessness can both produce and result from physical and mental health challenges, including addiction. The longer people remain unsheltered, the more likely they
+
+
+
+
+
+
+
+9 https://kingcounty.gov/~/media/depts/community-human-services/housing-homelessness-community- development/documents/one-table/one- table_all.ashx?la=en#:~:text=CHILD%20WELFARE%20SYSTEM%20One%2Dthird,to%20obtain%20housing%20and%20employment.
+
+are to need help. Breaking this cycle requires urgent action to bring people indoors and provide health services.
+To meet this enormous challenge, the region's approach centers on rapidly reducing the number of people currently forced to live outside by substantially expanding both temporary shelter and permanent housing options. As of 2023, Seattle has 4,333 of the 25,734 temporary shelter spaces and 5,231 of the 20,255 permanently supportive housing units estimated to be needed by the end of 2044.
+The homelessness services system currently comprises the following the types of short-term housing interventions:
+
+Emergency Shelter
+
+Homeless shelters provide a place for people and families experiencing homelessness to find safety, protection from exposure to weather, and an opportunity to connect with services on their path to permanent housing. Various types of emergency shelter differ based on certain key characteristics, including:
+overnight versus 24/7 hours of operation; ability to "drop-in" to access to shelter; congregate versus non-congregate;
+hot meals or options for kitchens; ability to bring pets or partners;
+ability to store belongings for extended periods; permitted length of stay; and
+populations served (single adults, families, youth and young adults, culturally specific, etc.).
+"Congregate" refers to communal sleeping arrangements in emergency shelter settings; "non- congregate" describes a setting with single-room occupancy and/or separate rooms. During the COVID-19 pandemic, the benefits of non-congregate shelters, including micro-modular shelters, tiny house villages, and hotel/motel shelters, became apparent, with several studies demonstrating its correlation with improved short-term health outcomes. 10 Having a space separate from other people and safe for belongings provides privacy and stability and improves overall wellness and
+
+
+10 Fleming MD, Evans JL, Graham-Squire D, et al. Association of Shelter-in-Place Hotels with Health
+Services Use among People Experiencing Homelessness During the COVID-19 Pandemic. JAMA Network Open. 2022;5(7): e2223891. doi:10.1001/jamanetworkopen.2022.23891; The Promise of Service-Enriched, Hotel-Based Housing as an Alternative to Congregate Shelters for High-Need Persons Experiencing Homelessness | Emergency Medicine | JAMA Network Open | JAMA Network
+
+service connections. For that reason, non-congregate shelters of all kinds constitute a substantial area for further temporary housing expansions.
+
+Transitional Housing
+
+Transitional housing is a specific program, defined by the federal Department of Housing and Urban Development (HUD), that provides temporary housing with supportive services to individuals and families experiencing homelessness with the goal of interim stability and support to successfully move to and maintain permanent housing. Transitional housing can provide housing and accompanying supportive services at no cost for program participants for up to 24 months.
+
+Rapid Rehousing
+
+Rapid Rehousing (RRH) is a low-barrier, time-limited intervention connecting households experiencing homelessness to permanent housing through a tailored package of assistance, including short-term rental assistance and supportive services, without any pre-conditions or requirements (such as employment, income, absence of criminal record, or sobriety). RRH includes three core components: 1) housing identification, 2) move-in and rental assistance, and 3) housing- focused case management services and supports. Housing-focused case management is provided, with an emphasis on immediate efforts to secure housing, using the minimum assistance necessary to resolve each household's immediate housing crisis.
+
+Prevention and Diversion
+
+Prevention and diversion activities help individuals and families minimize time spent homeless or averting it altogether. Program participants can receive short- and medium-term tenant- or project- based rental assistance as well as assistance with rental arrears, rental application fees, security deposits, last month's rent payments, utility deposits and payments, moving costs, housing search and placement, housing stability case management, mediation, legal services, and credit repair.
+GOAL
+
+H G8	Homelessness is rare and brief, people experiencing homelessness secure housing and supportive services, and shelter is available as an interim, emergency step toward permanent and stable housing.
+POLICIES
+
+H 8.1	Implement strategies and programs that preserve, improve, and expand Seattle's supply of emergency housing and shelter and permanent supportive housing to meet all current and projected future needs.
+H 8.2	Support strategies and actions that ensure sufficient overall housing supply, including and especially permanently supportive housing and housing affordable to households with incomes at or below 60% AMI, to aid in the City's ability to reduce and respond to homelessness.
+
+H 8.3	Identify and implement a robust range of anti-displacement strategies and interventions that address the needs of people and households at high risk of becoming homeless.
+H 8.4	Collaborate with King County and other jurisdictions in efforts to prevent and end homelessness and focus those efforts on providing permanent housing with supportive services, expanding safe temporary shelter, and securing the resources to do so.
+H 8.5	Support efforts to respond to homelessness among the Native American population, particularly strategies identified, and services provided by Native-led organizations.
+H 8.6		Support and remove regulatory barriers to siting small individual homes for people experiencing homelessness on homeowners' property throughout Seattle.
+
+

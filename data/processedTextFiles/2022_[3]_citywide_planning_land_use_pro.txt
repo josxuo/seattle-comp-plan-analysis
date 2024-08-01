@@ -1,0 +1,807 @@
+Land Use
+
+Introduction
+Land use choices affect how Seattle looks and feels to visitors and how it functions for those who call it home. This Plan's land use policies follow the urban village strategy. They help guide new housing and businesses to the urban centers and villages and help design the actual buildings and public spaces. The land use policies also recognize the character of the city's different neighborhoods, part of what makes Seattle such an attractive place to live.
+
+Seattle is a "built city." That means we don't have a lot of vacant land where we can put new buildings. It also means that the land use goals and policies need to fit more jobs and housing into our existing communities. To help everyone to share in the benefits of growth, the land use policies steer most new development toward the urban centers and urban villages that are accessible by public transit and that have the goods, services, and amenities that people want. And while growth and change bring good things to the city, we don't want the Seattle of the future to leave anyone behind. As we grow, we need to provide more housing and other services for the most vulnerable among us.
+
+You see these policies in action when you notice a difference in the location, type, and size of new buildings. Guided by the urban village strategy, the City's Land Use Code (Seattle Municipal Code Title 23) includes a map showing the zones that define the types of buildings allowed. Detailed regulations tell developers what the buildings in each zone can look like. The zones themselves are grouped in the Land Use Code under general categories such as single-family zones, which are composed mostly of houses, and commercial/mixed-use zones, which include businesses as well as housing. Multifamily zones include apartment buildings, town houses, and condos, while industrial zones create space for the port and manufacturing to thrive. Downtown has its own zone type for dense, highrise office and residential buildings.
+
+This Land Use element is divided into three sections. The first section has policies that affect the city as a whole. These policies speak to how Seattle should change and grow in the years to come. The Future Land Use Map shows us the shape of this next-generation Seattle. The second section talks about each kind of land use area: single-family, multifamily, commercial/mixed-use, industrial, and Downtown. The policies in this section explain what makes each of these land use areas different. The third section contains policies for places that play special roles-for example, historic districts.
+
+The Land Use Appendix provides information about the amount of land being used for different purposes across the city. It also displays the density of housing, population, and jobs throughout the city.
+
+Citywide Land Use Policies
+Citywide land use policies guide the content and interpretation of the City's Land Use Code, which contains detailed regulations about where and how activities on the land may be changed. These regulations are applied geographically by zone. Unless a difference is noted, policies in this section apply across all zones.
+
+The Future Land Use Map and Locations of Zones
+
+Discussion
+
+The Future Land Use Map shows distinct land use designations or types that are located around the city. The City has decided the right uses for each area and how much use each area should receive. Five of these area types-single-family residential areas, multifamily residential areas, commercial/mixed-use areas, Downtown areas, and industrial areas-are meant to suggest specific uses. One area might be good for building more homes or right for building shops and restaurants. Within each land use area, there may be different levels of zoning that provide more detail about what can be built. This ensures that the right types and density of buildings will be built in each place. In certain places, special zoning can be created through a separate process. Some of these special zones are created around large hospitals or universities or housing developments where the needs of many people need
+to be coordinated. These include major institution overlay districts and master planned communities. Four other types of areas on the Future Land Use Map show the urban village strategy in use. Urban centers, hub urban villages, residential urban villages, and manufacturing/industrial centers work together with the land use area designations. They show us the best spots to place new housing and jobs and the right places for manufacturing, warehousing, and port activity.
+
+As the city's needs and priorities shift, the Future Land Use Map may be changed or formally amended. Some changes, such as adjusting boundaries or moving around specific zones within the same general land use area or urban village, can be made without a formal amendment or change to the map.
+
+Actual zones that are used to regulate new buildings are identified on the City's Official Land Use Map. This map is part of the Plan's regulatory structure and can be found in the Land Use Code. Sometimes landowners want to change the type or size of the buildings they can build on their land. Changing the zoning of a particular area or site is a formal process that requires City Council approval. When a landowner applies for a rezone, the City looks to see if the change matches up with the Future Land Use Map, follows the Land Use Code, and fits with the surrounding area and the neighborhood.
+
+Future Land Use Map
+
+
+GOAL
+
+LUG1	Achieve a development pattern consistent with the urban village strategy, concentrating most new housing and employment in urban centers and villages, while also allowing some infill development compatible with the established context in areas outside centers and villages.
+
+
+POLICIES
+
+
+LU1.1 Use the Future Land Use Map to identify where different types of development may occur in support of the urban village strategy.
+
+
+LU 1.2	Promote this plan's overall desired land use pattern through appropriate zoning that regulates the mix of uses as well as the size and density of development to focus new residential and commercial development in urban centers and urban villages, and integrate new projects outside of centers and villages into the established development context.
+
+
+LU1.3 Provide for a wide range in the scale and density permitted for multifamily residential, commercial, and mixed-use projects to generally achieve the following overall density and scale characteristics, consistent, at a minimum, with the guidelines in Growth Strategy Figure l: In urban centers, a moderate to high-density and scale of development In hub urban villages, a moderate density and scale of development
+In residential urban villages, a low to moderate density and scale of development
+
+Consider higher densities and scales of development in areas near light rail stations
+
+
+LUl.4 Provide a gradual transition in building height and scale inside urban centers and urban villages where they border lower-scale residential areas.
+
+LU1.5 Require Future Land Use Map amendments only when needed to achieve a significant change to the intended function of a large area.
+
+
+LU 1.6 Consider and seek to reduce the potential health impacts of air pollution on residential populations and other sensitive uses near corridors with high volumes of vehicle traffic, the King County Airport, major rail yards, freight routes, and point sources of pollution.
+
+Uses
+
+Discussion
+
+The City regulates or controls how Seattle land is used through zoning. Each zone comes with a specific set of rules defining what types of uses are allowed in that area. Regulating how we use land in Seattle is important for many reasons. It allows us to plan for new people and businesses that come into the city and to look into the future. It allows goods and services to be located where they are needed most and helps us put jobs and housing in the places that match our vision. Regulations can also help smooth transitions between zones. Zoning helps Seattle remain a city of diverse neighborhoods, each with its own character and special features. Regulating how we use our land also helps us meet the common needs of all Seattleites for jobs, housing, services, and access to amenities and cultural resources.
+
+GOAL
+
+LU G2	Provide zoning and accompanying land use regulations that
+
+allow a variety of housing types to accommodate housing choices for households of all types and income levels;
+
+support a wide diversity of employment-generating activities to provide jobs for a diverse residential population, as well as a variety of services for residents and businesses; and
+
+accommodate the full range of public services, institutions, and amenities needed to support a racially and economically diverse, sustainable urban community.
+
+
+POLICIES
+
+LU 2.1	Allow or prohibit uses in each zone based on the zone's intended function as described in this Land Use element and on the expected impacts of a use on other properties in the zone and the surrounding area. Generally allow a broad mix of compatible uses in the urban centers and urban villages.
+
+LU 2.2  Include provisions to potentially allow as conditional uses those activities that may be beneficial to an area but that also require additional measures to avoid potential impacts those activities could have on sensitive environments or on other permitted uses.
+
+LU 2.3	Allow residential use outright or as a conditional use in all zones except industrial zones and those shoreline areas where residential uses may conflict with the intended function of the shoreline environment.
+
+LU 2.4	Limit nonresidential uses in residential zones to those necessary or highly compatible with the function of residential neighborhoods.
+LU 2.5	Allow nonconforming uses to be maintained and enhanced, but generally not to be expanded or extended, and encourage them to become more conforming over time.
+
+LU 2.6	Avoid introducing incompatible land uses adjacent to or within the Airport Influence Area of commercial service airports.
+
+LU 2.7  Review future legislative rezones to determine if they pose a risk of increasing the displacement of residents, especially marginalized populations, and the businesses and institutions that serve them.
+
+LU 2.8	Evaluate new land use regulations to determine if there are potential adverse outcomes that may affect marginalized populations or other groups or individuals unfairly, and seek to avoid or mitigate such potential outcomes.
+
+
+Special Uses: Public Facilities and Small Institutions
+
+Discussion
+
+Throughout Seattle our communities are dotted with facilities that provide needed services to local residents. These include schools, fire and police stations, and other buildings that serve special functions that require them to be different from other buildings in the same zone. For instance, fire stations may need extra room for trucks, and schools need to be much larger than the single-family houses around them. Similar issues sometimes arise with facilities and small institutions not operated by the public sector, such as churches, private schools, and nursing homes.
+
+GOAL
+
+LU G3	Allow public facilities and small institutions to locate where they are generally compatible with the function, character, and scale of an area, even if some deviation from certain regulations is necessary.
+
+
+POLICIES
+
+LU3.l	Regulate public facilities and small institutions to promote compatibility with other developments in the area.
+
+LU 3.2	Allow public facilities and small institutions to depart from development standards, if necessary to meet their particular functional requirements, while maintaining general design compatibility with the surrounding area's scale and character.
+Require public facilities and small institutions to adhere to zoned height limits,
+
+except for spires on religious institutions. Consider providing greater flexibility for schools in recognition of their important role in the community.
+
+LU 3.3	Allow standards to be modified for required off-street parking associated with public facilities and small institutions based on the expected use and characteristics of the facility and the likely impacts on surrounding parking and development conditions, and on existing and planned transportation facilities in the area.
+
+LU 3.4	Avoid clusters of public facilities and small institutions in residential areas if such concentrations would create or further aggravate parking shortages, traffic congestion, and noise in the area.
+
+LU 3.5	Allow nonconforming public facilities and small institutions to expand or make structural changes, provided these alterations comply with the zone's development standards and do not increase the structure's nonconformity.
+
+LU 3.6	Allow buildings no longer used as schools to be put to other uses not otherwise permitted in the applicable zone. Base decisions about these uses on criteria that are established for each vacant school as the need arises, through a process that includes Seattle Public Schools, the City, and the surrounding neighborhood.
+
+
+Special Uses: Telecommunication Facilities
+
+Discussion
+
+Cell phone service providers and broadcast radio and television stations require equipment that can transmit their signals. This equipment usually must be up high enough that signals can get through. They are also regulated by federal law. AM and FM radio and VHF and
+UHF television transmission towers are considered major communication utilities. Minor communication facilities are generally smaller and include such things as personal wireless service and cellular communication facilities.
+
+GOAL
+
+LU G4	Provide opportunities for locating radio and television broadcast utilities (major communications utilities) to support continued and improved service to the public and to address potential impacts to public health.
+
+
+POLICIES
+
+LU 4.1	Allow major communications utilities only where impacts of their size and appearance can be offset, and in a way that does not lead to an overall increase in TV and radio towers.
+
+LU 4.2	Encourage replacing existing antennas with new antennas to achieve lower levels of radio-frequency radiation at ground level.
+
+LU 4.3	Prohibit new major communication utilities, such as radio and television transmission towers, in neighborhood and multifamily residential zones and in pedestrian-oriented commercial/mixed-use zones, and encourage existing major communication utilities to relocate to nonresidential areas.
+
+LU 4.4	Require major communication utilities to be developed in ways that limit impacts on nearby areas, including through development standards and design treatments that minimize visual impacts on neighboring properties and provide an overall appearance that is as compatible as possible with the uses permitted in the zone and the desired character of the area.
+
+LU 4.5	Limit the intrusiveness minor communication utilities could impose on communities by encouraging collocation of facilities and by requiring mitigation of visual and noise impacts.
+
+
+
+General Development Standards
+
+Discussion
+
+Development standards are the rules that define what type of structure can be built on a property. Standards often include limits on building height, setbacks from the sidewalk, how much of the lot can be covered by structures, or the characteristics of the front facade of the building. Development standards help shape the look and feel of Seattle's neighborhoods as they grow. They help new buildings fit in with the character of a neighborhood or may reflect the future vision for a certain area. The standards also help builders care for the environment and take into account the physical limits of certain areas.
+
+GOAL
+
+LU GS	Establish development standards that guide building design to serve each zone's function and produce the scale and character desired, while addressing public health, safety, and welfare.
+
+
+POLICIES
+
+LU 5.l	Allow for flexibility in development standards so existing structures can be maintained and improved, and new development can better respond to site-specific conditions.
+LU 5.2	Develop and apply appropriate development standards that provide predictability regarding the allowed intensity of development and expected development types for each zone.
+
+LU 5.3  Control the massing of structures to make them compatible with the area's planned scale, provide a reasonable ratio of open to occupied space on a site, and allow the building to receive adequate natural light.
+
+LU 5.4  Use maximum height limits to maintain the desired scale relationship between new structures, existing development, and the street environment; address varied
+topographic conditions; and limit public view blockage. In certain Downtown zones and in industrial zones, heights for certain types of development uniquely suited to those zones may be unlimited.
+
+LU 5.5		Provide for residents' recreational needs on development sites by establishing standards for private or shared amenity areas such as rooftop decks, balconies, ground-level open spaces, or enclosed spaces.
+
+LU 5.6	Establish setbacks in residential areas as needed to allow for adequate light, air, and ground-level open space; help provide privacy; promote compatibility with the existing development pattern; and separate residential uses from more intensive uses.
+
+LU 5.7	Employ development standards in residential zones that address the use of the ground level of new development sites to fit with existing patterns of landscaping, especially front yards in neighborhood residential areas, and to encourage permeable surfaces and vegetation.
+
+LU 5.8	Establish tree and landscaping requirements that preserve and enhance the City's physical and aesthetic character and recognize the value of trees and landscaping in addressing stormwater management, pollution reduction, heat island mitigation, and other issues.
+
+LU 5.9	Enhance the visual quality of an area through standards for screening and landscaping appropriate to each zone in order to limit the visual impact of new development on the surrounding neighborhood, the streetscape, and development in areas with less intensive zoning.
+
+LU 5.10 Regulate signage to encourage reasonable identification of businesses and to communicate information of community interest while limiting visual clutter, protecting the public interest, and enhancing the city's appearance and safety.
+
+LU 5.11	Establish maximum permitted noise levels that account for both the function of the noise-producing area and the function of areas where the noise may be heard in order to reduce the health hazards and nuisance factors associated with some uses.
+
+LU 5.12 Identify uses as major noise generators based on the noise associated with certain equipment operations or the nature of a particular activity, and regulate these uses to reduce noise to acceptable levels.
+
+LU 5.13 Regulate activities that generate air emissions such as dust, smoke, solvent fumes, or odors, in order to maintain and encourage successful commercial and industrial activities while protecting employees, clients, nearby residents, the general public, and the natural environment from the potential impacts.
+
+LU 5.14  Establish controls on the placement, direction, and maximum height of lighting and on the glare from reflective materials used on the exterior of structures in order to
+
+limit impacts on surrounding uses, enhance the character of the city, and encourage energy conservation.
+
+LU 5.15  Address view protection through
+
+zoning that considers views, with special emphasis on shoreline views;
+
+development standards that help to reduce impacts on views, including height, bulk, scale, and view corridor provisions, as well as design review guidelines; and
+
+environmental policies that protect specified public views, including views of mountains, major bodies of water, designated landmarks, and the Downtown skyline.
+
+LU 5.16  Require higher-density development to offset its impacts through mechanisms such as incentives for landmark preservation, open space amenities, affordable housing and affordable commercial space.
+
+LU 5.17  Help preserve active farms in the region through strategies such as offering incentives to developers who transfer development rights from regional farmland to sites in the city.
+
+LU 5.18 Seek excellence in new development through a design review process that encourages multiple perspectives on design issues and that complements development regulations, allowing for flexibility in the application of development standards to achieve quality design that
+
+enhances the character of the city;
+respects the surrounding neighborhood context, including historic resources; enhances and protects the natural environment;
+allows for variety and creativity in building design and site planning; furthers community design and development objectives;
+achieves desired intensities of development; and
+responds to the increasingly diverse social and cultural character of the city.
+
+
+Off-Street Parking
+
+Discussion
+
+Parking is found on both public and private property. Since on-street parking can limit the cars, transit, and bicycles using the same space for travel, street parking policies are covered in the Transportation element. The Land Use Code regulates off-street parking, spaces often provided as part of private developments. Because the City encourages walking, biking, and transit for moving around town, consistent with the urban village strategy, the City's zoning rules do not require parking in certain areas. In urban centers and those urban villages with reliable transit access, the City instead allows the developers to decide how much parking they need to serve their tenants. In other areas, like Downtown Seattle, the
+
+City may set a limit on private parking to lessen traffic and encourage people to walk, bus, or bike to the area. Where parking is required, we know that the number of spaces, their design, and their location on the property make a big difference. Parking facilities change the size of new developments, what they look like, and what they cost to build. The policies in this section are meant to encourage communities where people can walk to what they need, especially in the urban centers and villages. They also support moving away from
+car-focused transportation.
+
+
+GOAL
+
+LU G6	Regulate off-street parking to address parking demand in ways that reduce reliance on automobiles, improve public health and safety, reduce greenhouse gas emissions, lower construction costs to reduce the cost of housing and increase affordable housing, create attractive and walkable environments, and promote economic development throughout the city.
+
+
+POLICIES
+
+LU 6.1		Establish parking requirements where appropriate for both single-occupant vehicles and their alternatives at levels that further this Plan's goal to increase the use of public transit, car pools, walking, and bicycles as alternatives to the use of single-occupant vehicles.
+
+LU 6.2		Modify residential parking regulations, where parking is required, to recognize differences in the likely auto use and ownership of intended occupants of new developments, such as projects provided for low-income, elderly, or residents with disabilities.
+
+LU 6.3	Rely on market forces to determine the amount of parking provided in areas of the city that are well-served by transit, such as urban centers and urban villages.
+
+LU 6.4	Consider setting parking maximums in urban centers and urban villages, where high levels of pedestrian, bicycle, and transit accessibility make many trips possible without a car.
+
+LU 6.S	Establish bicycle parking requirements to encourage bicycle ownership and use.
+
+LU 6.6  Limit the off-street impacts on pedestrians and surrounding areas by restricting the number and size of automobile curb cuts, and by generally requiring alley access to parking when there is an accessible, surfaced alley.
+
+LU 6.7		Prohibit most street-level parking between buildings and the street in multifamily zones and pedestrian-oriented commercial zones in order to maintain an attractive and safe street-level environment, facilitate the movement of pedestrian and vehicular traffic, minimize adverse impacts on nearby areas and structures, and, where appropriate, maintain or create continuous street fronts.
+
+LU 6.8  Allow shared off-site parking facilities for more efficient use of parking and to provide the flexibility to develop parking on a site separate from the development site. Ensure that such parking is compatible with the existing or desired character of the area.
+
+LU 6.9	Require parking in areas with limited transit access and set the requirements to discourage underused parking facilities, even if occasional spillover parking could result.
+
+LU 6.10 Allow transportation management programs in commercial and multifamily residential areas with access to frequent transit to include measures such as cooperative parking, shared parking, shared vehicles, restricted access, car pools, van pools, or transit pass subsidies.
+
+LU 6.11 Achieve greater parking efficiency by allowing fewer parking spaces per business when several businesses share customer parking, thereby enabling customers to park once and walk to numerous businesses.
+
+LU 6.12 Locate off-street parking facilities to minimize impacts on the pedestrian environment, especially in areas designated for active pedestrian use.
+
+LU 6.13 Limit parking in City parks to discourage the use of park land for parking; where there is a demonstrated need for parking, design parking facilities in ways that preserve open space, green space, and trees and other mature vegetation.
+
+LU 6.14 Prohibit principal-use parking in places where that parking would be incompatible with the area's intended function.
+
+LU 6.15 Discourage the development of major stand-alone park-and-ride facilities within Seattle. Additions to park-and-ride capacity could be considered
+
+at the terminus of a major regional transit system, where opportunities exist for shared parking, or
+where alternatives to automobile use are particularly inadequate or cannot be provided in a cost-effective manner.
+
+
+
+Land Use Areas
+
+Discussion
+
+Historically, zones were created so that different types of uses could be developed only in distinct areas of the city. One reason for this was to keep the uses in one area from affecting the uses in another in a negative way. For example, industrial activities like manufacturing were separated from residential areas to protect residents from harm. Over time, the city evolved in a pattern similar to that basic idea. There are still areas in the city that have distinct uses, but over time commercial uses and residential uses began to blend more to give people better access to shops and services. These changing patterns helped give Seattle its unique neighborhoods. For instance, areas with commercial zoning that allows shops and small offices have become the heart of many neighborhoods.
+
+Areas that already had business cores and multifamily housing and that are zoned for more housing and businesses have become the cores of the urban villages. Areas in the city were developed at different times, giving them distinct characteristics that show their history. For instance, houses might have a similar architectural style or have a similar relationship to their surroundings.
+
+Each of the land use areas plays a unique role in the city. Used in combination, they help Seattle grow in ways that meet the city's needs. They allow us to place new housing in the areas where the most jobs and services are or will be in the future. They also allow us to encourage housing in places that already have frequent and reliable transit service or that will have better access as improvements and investments are made in rail or bus service.
+
+Neighborhood Residential Areas
+Single-family zones cover much of the city. While they are thought of as residential neighborhoods, they include a variety of uses beyond housing. For instance, most of the public parkland is found in these zones, as are many of the public schools, cemeteries, and fire stations. In most of these areas, houses are usually not very tall and typically have yards and open space around them. That open space provides recreation opportunities for residents and land for much of the city's tree canopy.
+
+Much of the land in these areas has been built to the densities the current zoning rules allow. However, some different housing types, such as accessory dwelling units or backyard cottages, could increase the opportunity for adding new housing units in these areas. Over time, some single-family areas could be incorporated into nearby urban villages, and there could be a new definition of what is allowable in these zones when they are inside urban villages.
+
+GOAL
+
+LU G7	Provide opportunities for detached single-family and other compatible housing options that have low height, bulk, and scale in order to serve a broad array of households and incomes and to maintain an intensity of development that is appropriate for areas with limited access to services, infrastructure constraints, fragile environmental conditions, or that are otherwise not conducive to more intensive development.
+
+
+POLICIES
+
+LU 7.1		Designate as neighborhood residential areas those portions of the city that are predominantly developed with single-family houses and that are large enough to maintain a consistent residential character of low height, bulk, and scale over several blocks.
+
+LU 7.Z	Use a range of neighborhood residential zones to
+
+maintain the current low-height and low-bulk character of designated neighborhood residential areas;
+
+limit development in neighborhood residential areas or that have environmental or infrastructure constraints;
+
+allow different densities that reflect historical development patterns; and
+
+respond to neighborhood plans calling for redevelopment or infill development that maintains the neighborhood residential character of the area but also allows for a greater range of housing types.
+
+
+LU7.3
+
+
+Consider allowing redevelopment or infill development of neighborhood residential areas inside urban centers and villages, where new development would maintain the low height and bulk that characterize the single-family area, while allowing a wider range of housing types such as detached accessory units, cottage developments or small duplexes or triplexes.
+
+
+LU 7.4	Allow detached neighborhood residential dwellings as the principal use permitted outright in single-family residential areas.
+
+LU 7.5	Encourage accessory dwelling units, family-sized units, and other housing types that are attractive and affordable, and that are compatible with the development pattern and building scale in neighborhood residential areas in order to make the opportunity in single-family areas more accessible to a broad range of households and incomes, including lower-income households.
+
+LU 7.6	Limit the number and types of nonresidential uses allowed in neighborhood residential areas and apply appropriate development standards in order to protect those areas from the negative impacts of incompatible uses.
+
+LU 7.7	Prohibit parking lots or other activities that are part of permitted uses in neighboring higher-intensity zones from locating or expanding in neighborhood residential areas.
+
+LU 7.8	Use minimum lot size requirements to maintain the character of neighborhood residential areas and to reflect the differences in environmental and development conditions and densities found in various single-family areas throughout the city.
+
+LU 7.9	Allow exceptions to minimum lot size requirements to recognize building sites created under earlier regulations and historical platting patterns, to allow the consolidation of very small lots into larger lots, to adjust lot lines to permit more orderly development patterns, and to provide more housing opportunities by creating additional buildable sites that integrate well with surrounding lots and do not result in the demolition of existing housing.
+
+LU 7.10  Reflect the character of existing low-density development through the regulation of scale, siting, structure orientation, and setbacks.
+
+LU 7.11 Permit, through Council or administrative conditional use approval, variations from established standards for planned large developments in neighborhood residential areas, to promote high-quality design that
+
+is compatible with the character of the area,
+enhances and preserves natural features and functions, encourages the construction of affordable housing, allows for development and design flexibility, and protects environmentally critical areas.
+
+Such developments should not be considered as sole evidence of changed circumstances to justify future rezones of the site or adjacent properties.
+
+LU 7.12 Emphasize measures that can increase housing choices for low-income individuals and families when considering changes to development standards in neighborhood residential areas.
+
+
+Multifamily Residential Areas
+
+Discussion
+
+The city's multifamily areas contain a variety of housing types. You might find duplexes or town houses, walk-up apartments or highrise towers. These structures may include units that are owned by the residents or may provide rental housing. Overall, these areas offer more choices for people with different living styles and a wider range of incomes than neighborhood residential zones.
+
+GOAL
+
+LU GS	Allow a variety of housing types and densities that is suitable for a broad array of households and income levels, and that promotes walking and transit use near employment concentrations, residential services, and amenities.
+
+
+POLICIES
+
+LU 8.1	Designate as multifamily residential areas those places that either are predominantly occupied by multifamily development or are within urban centers or urban villages.
+
+LU 8.2	Maintain a variety of multifamily zoning classifications that allow development at different densities, scales, and configurations and that are well suited to the variety of specific conditions and development goals in diverse areas of the city.
+
+LU 8.3	Provide housing for Seattleites at all income levels in development that is compatible with the desired neighborhood character and that contributes to high-quality, livable urban neighborhoods.
+
+LU 8.4		Establish evaluation criteria for rezoning land to multifamily designations that support the urban village strategy, create desirable multifamily residential neighborhoods, maintain compatible scale, respect views, enhance the streetscape
+
+and pedestrian environment, and achieve an efficient use of the land without major impact on the natural environment.
+
+LU 8.S	Allow multifamily areas to be reclassified to compatible pedestrian-friendly commercial/mixed-use areas, when such action is consistent with the urban village strategy or approved in an adopted neighborhood plan.
+
+LU 8.6	Establish multifamily residential use as the predominant use in multifamily areas and limit the number and type of nonresidential uses to preserve the residential character of these areas, protect these areas from negative impacts of incompatible uses, and maintain development opportunities for residential use.
+
+LU 8.7	Encourage multifamily developments with units that have direct access to residential amenities, such as ground-level open space, to increase their appeal for families with children.
+
+LU 8.8	Allow a variety of attached housing types to accommodate a wide diversity of households in multifamily zones.
+
+LU 8.9	Establish lowrise multifamily zones to accommodate various housing choices in the low- to moderate-density range suitable for a broad array of households and incomes, including walk-up apartments, town houses, row houses, duplexes, triplexes, and cottage housing.
+
+LU 8.10 Designate lowrise multifamily zones in places where low-scale buildings can provide a gradual transition between neighborhood residential zones and more intensive multifamily or commercial areas.
+
+LU 8.11 Use midrise multifamily zones to provide greater concentrations of housing in urban villages and urban centers.
+
+LU 8.12  Emphasize residential character in the development standards for midrise multifamily zones and allow for scale and building types that differ from those in less intensive residential areas to accommodate a greater density of development to support nearby businesses.
+
+LU 8.13 Use highrise multifamily zoning designations only in urban centers, where the mix of activities offers convenient access to regional transit and to a full range of residential services and amenities, as well as to jobs.
+
+LU 8.14 Ensure that midrise and highrise development balances the desire to accommodate larger-scale, high-density development with the need to maintain livability through controls on such impacts as shadows, bulk, open space, and traffic.
+
+LU 8.1S Permit street-level commercial uses in midrise and highrise neighborhoods to allow residents greater access to services and to promote an active street environment without detracting from the overall residential character desired for high-density neighborhoods.
+
+
+Commercial/Mixed-Use Areas
+
+Discussion
+
+Commercial/mixed-use zones are places meant to provide jobs and services. Most of these zones also allow housing. Since 2005, almost two-thirds of new housing units in the city have been built in these zones. Housing might be built as a stand-alone structure or along with commercial space. Mixed-use areas or projects contain residential and commercial uses. Mixed-use projects often have offices or stores on the ground floor with housing above.
+
+The Land Use Code identifies several different types of commercial zones. These zones provide flexibility to developers and are meant to create communities with a variety of activities. Structures in these zones can be built to different heights depending on where they are located. The general commercial zones tend to be found on major arterials and are more auto-oriented. Neighborhood Commercial and Seattle Mixed zones use development standards that produce more walkable environments and are better for housing development.
+
+GOAL
+
+LU G9		Create and maintain successful commercial/mixed-use areas that provide a focus for the surrounding neighborhood and that encourage new businesses, provide stability and expansion opportunities for existing businesses, and promote neighborhood vitality, while also accommodating residential development in livable environments.
+
+
+POLICIES
+
+LU 9.1	Prioritize the preservation, improvement, and expansion of existing commercial/ mixed-use areas over the creation of new business districts in order to strengthen the existing areas.
+
+LU 9.2 Encourage the development of compact, concentrated commercial/mixed-use areas, in urban centers and urban villages, where pedestrians can easily access transit and a variety of businesses.
+
+LU 9.3	Provide a range of commercial-zone classifications to allow different mixes and intensities of activity, varying scales of development, varying degrees of residential or commercial orientation, and varying degrees of pedestrian or auto orientation.
+
+LU 9.4		Apply development standards that distinguish between pedestrian-oriented commercial zones, which are compatible with and easily accessible from their surrounding neighborhoods, and general commercial zones, which accommodate uses that are more dependent on automobile access.
+
+LU 9.5	Support a wide range of uses in commercial areas, taking into account the intended pedestrian, automobile, or residential orientation of the area, the area's role in the urban village strategy, and the impacts that the uses could have on surrounding areas.
+
+LU 9.6	Encourage housing in mixed-use developments in pedestrian-oriented commercial/ mixed-use areas to provide additional opportunities for residents to live in neighborhoods where they can walk to transit, services, and employment.
+
+LU 9.7	Apply limits on the size of specific uses in commercial areas when those limits would
+
+help ensure that the scale of uses is compatible with the character and function of the commercial area;
+
+discourage uses likely to attract significant vehicular traffic from locating in
+pedestrian-oriented commercial areas;
+
+promote compatible land use and transportation patterns; foster healthy commercial development; or
+provide opportunities for small local businesses to locate, especially in culturally relevant business districts throughout the city.
+
+LU 9.8	Limit the creation or expansion of uses that generate high volumes of vehicle traffic by reviewing proposals for such uses in order to control the associated traffic impacts and ensure that the uses are compatible with the character of the commercial area and its surroundings.
+
+LU 9.9		Limit new drive-in businesses and accessory drive-in facilities in pedestrian-oriented commercial/mixed-use areas and in other locations by using development standards that address the potential for traffic impacts, pedestrian/vehicle conflicts, and disruption of an area's business frontage, as well as the overall appearance of the commercial area.
+
+LU 9.10 Prohibit or limit the location and size of outdoor uses and activities in certain commercial areas, according to the area's function and its proximity to residentially zoned lots, in order to maintain and improve the continuity of the commercial street front, reduce the visual and noise impacts associated with such outdoor activities, and remain compatible with adjacent residential areas.
+
+LU 9.11	Preserve active streetscapes in pedestrian-oriented commercial/mixed-use areas by limiting residential uses along the street frontage of the ground floor and by keeping those spaces available primarily for commercial uses and other uses that help activate the street, in order to strengthen business districts.
+
+LU 9.12 Allow street-level residential uses outside pedestrian-oriented areas and apply standards that give ground-floor tenants privacy and to create visual interest along the street front.
+
+LU 9.13 Provide amenity areas for use by residents of housing in commercial/mixed-use areas.
+
+LU 9.14 Assign height limits to commercial/mixed-use areas independent of the commercial zone designations but consistent with the intended intensity of development in the zone. Allow different areas within a zone to be assigned different height limits based on the need to
+
+further the urban village strategy's goals of focusing growth in urban villages, accommodate the desired functions and intensity of development,
+provide a compatible scale relationship with existing zoning in the vicinity, accommodate desired transitions with development in adjacent areas, and consider potential view blockage.
+
+LU 9.lS Allow limited exceptions to the height limit in order to accommodate ground-floor commercial uses or special rooftop features, encourage development of mixed  use structures, enable structures to function appropriately, accommodate special features consistent with the special character or function of an area, or support innovative design that furthers the goals of this Plan.
+
+LU 9.16 Apply appropriate development standards to promote compatible conditions along the edges of commercial zones abutting residential zones.
+
+LU 9.17 Use a development pattern, mix of uses, and intensity of activity generally oriented to pedestrian and transit use in pedestrian-oriented commercial/mixed-use zones to achieve
+
+a compatible blend of commercial and residential uses;
+
+strong, healthy business districts that reinforce a sense of place while providing essential goods, services, and livelihoods for Seattleites, especially residents who are within walking distance of these places;
+
+mixes of commercial activity that are compatible with development in adjacent areas;
+
+residential development that is both appealing to residents and compatible with the desired commercial function of the area; and
+
+an active, attractive, accessible, walkable pedestrian environment with continuous commercial street frontages.
+
+LU 9.18 Apply pedestrian-oriented commercial zones in places where residential uses are in close proximity and where the allowed development intensity conforms in size and scale to the community it serves.
+
+LU 9.19 Locate and provide access to accessory parking facilities in pedestrian-oriented commercial zones in ways that avoid conflicts with pedestrian routes and interruptions to the continuity of the street facade, such as by locating unenclosed parking to the side of or behind the building, or by enclosing parking below the building or within the building and screening it from the street, preferably by other uses.
+
+LU 9.20 Use general commercial zones to support existing auto-oriented commercial areas that serve a citywide or regional clientele and have easy access to principal arterials, or in areas that border industrial zones, where they can help to maintain compatible development conditions.
+
+LU 9.21  Encourage the conversion of general commercial areas within urban villages to pedestrian-oriented commercial zones, in keeping with this Plan's goals for pedestrian-oriented environments within the urban villages.
+
+LU 9.22 Accommodate the broadest range of commercial activities in general commercial areas, including retail uses of all sizes, small office buildings, warehouses, and light and general manufacturing facilities.
+
+LU 9.23 Use zoning and other planning tools in urban centers and urban villages to address displacement of small locally-owned businesses that reinforce local neighborhood and cultural identity and provide culturally relevant goods and services to Seattle's diverse population.
+
+LU 9.24 Explore tools to encourage the creation of small commercial spaces in new development that can accommodate small, local, and culturally relevant businesses, particularly those businesses threatened with displacement.
+
+Industrial Areas
+
+Discussion
+
+Seattle has a long history as the main shipping, manufacturing, and freight-distribution center for the region. These days, those activities take place mostly in industrial zones located in the city's two manufacturing/industrial centers. These industrial areas are large and generally flat. In these areas, City zoning rules allow industrial activity such as manufacturing, warehousing, and shipping of goods through waterways, railways, and highways.
+
+Industrial zones are an important source of living wage jobs and make the local economic base more stable. Having industrial activity in the city makes Seattle less vulnerable to shifts in the economy. Due to the volume of truck traffic, the need some industrial businesses have for access to rail service, and the large sites that many of those businesses need, it is important to provide large, separate areas for these activities.
+
+GOAL
+
+LU G10 Provide sufficient land with the necessary characteristics to allow industrial activity to thrive in Seattle and protect the preferred industrial function of these areas from activities that could disrupt or displace them.
+
+
+POLICIES
+
+LU 10.1  Designate industrial zones generally where
+
+the primary functions are industrial activity and industrial-related commercial functions,
+
+the basic infrastructure needed to support industrial uses already exists,
+
+areas are large enough to allow a full range of industrial activities to function successfully, and
+
+sufficient separation or special conditions exist to reduce the possibility of conflicts with development in adjacent less intensive areas.
+
+LU 10.2 Preserve industrial land for industrial uses, especially where industrial land is near rail- or water-transportation facilities, in order to allow marine- and rail-related industries that rely on that transportation infrastructure to continue to function in the city.
+
+LU 10.3 Accommodate the expansion of current industrial businesses and promote opportunities for new industrial businesses within Seattle to strengthen the city's existing industrial economy.
+
+LU 10,4 Restrict to appropriate locations within industrial areas those activities that-by the nature of materials involved or processes employed-are potentially dangerous or very noxious.
+
+LU 10.s Provide a range of industrial zones that address varying conditions and priorities in different industrial areas. Those priorities include maintaining industrial areas
+that have critical supporting infrastructure, providing transitions between industrial areas and less intensive areas, and promoting high-quality environments attractive to business expansion or to new industrial activities.
+
+LU 10.6  Prohibit new residential development in industrial zones, except for certain types of dwellings, such as caretaker units, that are related to the industrial area and that would not restrict or disrupt industrial activity.
+
+LU 10,7 Use the general industrial zones to promote a full range of industrial activities and related support uses.
+
+LU 10.8 Apply the general industrial zones mostly within the designated manufacturing/ industrial centers, where impacts from industrial activity are less likely to affect residential or commercial uses. Outside of manufacturing/industrial centers, general industrial zones may be appropriate along waterways used for maritime uses.
+
+LU 10.9 Avoid placing industrial zones within urban centers or urban villages. However, in locations where a center or village borders a manufacturing/industrial center, use of the industrial commercial zone within the center or village where it abuts the manufacturing/industrial center may provide an appropriate transition to help separate residential uses from heavier industrial activities.
+
+LU 10.10 Limit the density of development for nonindustrial uses in the manufacturing/ industrial centers to reduce competition from nonindustrial activities that are better suited to other locations in the city, particularly urban centers and urban villages, where this Plan encourages most new residential and commercial development.
+Permit commercial uses in industrial areas only if they reinforce the industrial
+
+character, and strictly limit the size of office and retail uses not associated with industrial uses, in order to preserve these areas for industrial development.
+
+LU 10.11 Recognize the unique working character of industrial areas by keeping landscaping and street standards to a minimum to allow flexibility for industrial activities, except along selected arterials where installing street trees and providing screening and landscaping can offset impacts of new industrial development in highly visible locations.
+
+LU 10.12 Set parking and loading requirements in industrial zones to provide adequate parking and loading facilities to support business activity, promote air quality, encourage efficient use of the land in industrial areas, discourage underused parking facilities, and maintain adequate traffic safety and circulation. Allow some on-street loading and occasional spillover parking.
+
+LU 10.13 Maintain standards for the size and location of vehicle curb cuts and driveways in industrial zones in order to balance the need to provide adequate maneuvering and loading areas with availability of on-street parking and safe pedestrian access.
+
+LU 10.14 Permit noise levels in industrial areas, except buffer areas, that would not be allowed in other parts of the city, in recognition of the importance and special nature of industrial activities.
+
+LU 10.15 Classify certain industrial activities as conditional uses in industrial zones in order to accommodate these uses while making sure they are compatible with the zone's primary industrial function and to protect public safety and welfare on nearby sites. Require mitigation of impacts on industrial activity and on the immediate surroundings, especially nearby less intensive zones.
+
+LU 10.16 Prohibit uses that attract large numbers of people to the industrial area for nonindustrial purposes, in order to keep the focus on industrial activity and to minimize potential conflicts from the noise, nighttime activity, and truck movement that accompanies industrial activity.
+
+LU 10.17 Establish the industrial buffer zone to provide an appropriate transition between industrial areas and adjacent residential or pedestrian-oriented commercial zones.
+
+LU 10.18 Allow the widest possible range of manufacturing uses and related industrial and commercial activities within the industrial buffer zone, while ensuring compatibility with the activity and physical character of neighboring less intensive zones.
+
+LU 10.19 Include development standards or performance standards for the industrial buffer zone that protect the livability of neighboring areas, promote visual quality, and maintain a compatible scale of development along zone edges. Apply these standards only in places where existing conditions do not adequately separate industrial activity from less intensive zones.
+
+LU 10.20 Limit the height of structures on the borders of industrial buffer zones where streets along the zone edge do not provide sufficient separation for a reasonable transition in scale between industrial areas and less intensive neighboring zones, taking into consideration the permitted height in the abutting less intensive zone.
+
+LU 10.2.1 Allow a wide mix of employment activities in the industrial commercial zones, such as light manufacturing and research and development.
+
+LU 10.2.2. Limit development density in industrial commercial zones in order to reflect transportation and other infrastructure constraints, while taking into account other features of an area.
+
+LU 10.2.3 Include development standards in the industrial commercial zone designed to create environments that are attractive to new technology businesses and that support a pedestrian-oriented environment, while controlling structure height and scale to limit impacts on nearby neighborhoods.
+
+LU 10.2.4 Provide a range of maximum building height limits in the industrial commercial zones in order to protect the distinctive features that attract new technology businesses to the area-such as views of water, shoreline access, and the neighborhood scale and character-to make sure that these features will continue to be enjoyed, both within the zone and from the surrounding area.
+
+LU 10.2.s Assign height limits independently of the industrial zoning designation to provide flexibility in zoning-specific areas and to allow different areas within a zone to be assigned different height limits according to the rezone criteria.
+
+LU 10.2.6 Restrict or prohibit uses that may negatively affect the availability of land for industrial activity, or that conflict with the character and function of industrial areas.
+
+LU 10.2.7 Consider high value-added, living wage industrial activities to be a high priority.
+
+LU 10.2.8 Permit commercial uses in industrial areas to the extent that they reinforce the industrial character, and limit specified non-industrial uses, including office and retail development, in order to preserve these areas for industrial development.
+
+
+Downtown Areas
+
+Discussion
+
+Downtown is the most densely developed area in the Pacific Northwest. It includes five distinct neighborhoods: Belltown, Denny Triangle, the Commercial Core, Pioneer Square, and Chinatown/International District. Because each of these neighborhoods has a unique character, the City has a different plan for how each is expected to grow. This makes regulations for development in Downtown very detailed and complex. For this reason, the guidance for Downtown regulations is not found in this element. Instead, it can be found as part of the Downtown Urban Center Neighborhood Plan, located in the Neighborhood Plans volume of this Plan.
+
+
+GOAL
+
+LU G11	Promote Downtown Seattle as an urban center with the densest mix of residential and commercial development in the region, with a vital and attractive environment that supports employment and residential activities and is inviting to visitors.
+
+
+POLICIES
+
+LU 11.1	Recognize the distinct areas of Downtown that are defined by their histories and by their primary land use function, such as office, retail, or mixed-use with either a commercial or a residential emphasis.
+
+LU 11.2	Use a range of land use zones and height limits to support the existing and desired character of different areas within Downtown.
+
+
+
+Location-Specific Regulations
+
+Discussion
+
+In certain places in the city, different sets of rules "overlay" the zoning regulations. These overlays take into account a special use or characteristic of the area. For example, historic districts each have a separate set of regulations that preserve the area's unique historic features. The policies in this section guide how the City adjusts its regulations to the special functions and needs of major institutions, historic districts and landmarks, and environmentally critical areas. These policies generally describe overlays that could be applied in several places within the city. In addition to the areas covered in this section, the Land Use Code contains regulations governing specific overlay districts that apply only in certain locations, such as major institution overlays or the Pike/Pine corridor. There is also an overlay that applies to the shorelines along major water bodies in the city. Policies for that overlay can be found in the Shoreline Areas element of this Plan.
+
+GOAL
+
+LU G12		Provide flexibility in standard zone provisions or supplement those provisions to achieve special public purposes in areas where unique conditions exist, such as shorelines, historic and special review districts, and major institutions.
+
+
+POLICIES
+
+LU 12.1	Allow for zoning overlay districts, which modify the regulations of the underlying zoning, to address special circumstances and issues of significant public interest in subareas of the city.
+
+LU 12.2	Establish a master planned community zone and apply the zone as a way to address unique opportunities for large site redevelopments in the densest areas of the
+city. Use this designation to provide predictability to the City, the community, and potential developers, with the intent to encourage a mix of uses at appropriate urban densities that use a cohesive urban design and promote high levels of environmental sustainability, housing affordability, and publicly accessible open space. Designate a master planned community only for large multiblock sites inside an urban center that are subject to unified control.
+
+LU 12.3 Consider establishing a master planning process for large sites outside of urban centers in order to allow development that incorporates good urban design and appropriate public benefits.
+
+LU 12.4 Regulate development and promote design guidelines in the stadium area transition overlay to promote an environment that is attractive and safe for the large volumes of pedestrians attending events in the area.
+
+Major Institutions
+
+Discussion
+
+Hospitals, colleges, and universities deliver vital services to residents of Seattle and the Pacific Northwest. They employ one in eight Seattle workers and make the city's economy more diverse. However, they can also increase traffic and displace housing and businesses. The policies in this section help guide the City in allowing these institutions to grow, while mitigating the impacts of that growth on the livability of surrounding neighborhoods.
+
+GOAL
+
+LU G13	Encourage the benefits that major institutions offer the city and the region, including health care, educational services, and significant employment opportunities, while mitigating the adverse impacts associated with their development and geographic expansion.
+
+
+POLICIES
+
+LU 13.1	Designate the campuses of large hospitals, colleges, and universities as major institutions, making clear that they are defined under a separate public process in terms of their appropriate uses and development standards.
+
+LU 13.2 Support the coordinated growth of major institutions through conceptual master plans and the creation of major institution overlay districts. Use a master plan process to identify development standards for the overlay district that are specifically tailored to the major institution and the surrounding area.
+
+LU 13.3 Balance the need for major institutions to grow and change with the need to maintain the livability and vitality of neighboring areas.
+
+LU 13.4  Establish major institution overlays (MIO) as a designation on the Official Land Use Map and the Future Land Use Map to show areas where development is regulated by the contents of a master plan, rather than by the underlying zoning. Where appropriate, establish MIO boundaries for better integration between major institution areas and less intensive zones.
+
+LU 13.5 Encourage community involvement in the development, monitoring, implementation, and amendment of major institution master plans, including the establishment of citizens' advisory committees that include community and major institution representatives.
+
+LU 13.6  Allow the MIO to modify underlying zoning provisions and development standards, including use restrictions and parking requirements, in order to accommodate
+the changing needs of major institutions, provide development flexibility, and encourage a high-quality environment.
+
+LU 13.7 Discourage the expansion of established major institution boundaries.
+
+LU 13.8 Require either that a master plan be prepared or that the existing master plan be revised when a proposed major development that is part of a major institution does not conform to the underlying zoning and is not included in an existing master plan.
+
+LU 13.9 Locate new major institutions in areas where their activities are compatible with the surrounding land uses and where the impacts associated with existing and future development can be appropriately mitigated, and provide procedures for considering the establishment of new major institutions.
+
+LU 13.10 Define as major institution uses those that are part of, or substantively related to, the major institution's central mission or that primarily and directly serve institution users, and allow these uses within the MIO district, in accordance with the development standards of the underlying zoning classifications or adopted master plan.
+
+LU 13.11 Apply the development standards of the underlying zoning classification to all major institution development, except for specific standards altered by a master plan.
+
+LU 13.12 Determine appropriate measures to address the need for adequate transition between the major institution and surrounding uses.
+
+LU 13.13 Establish minimum parking requirements in each MIO district to address the needs of the major institution and reduce parking demand in nearby areas. Include maximum parking limits to avoid unnecessary traffic in the surrounding areas and to limit the use of single-occupant vehicles. Allow an increase in the number of permitted spaces only when such an increase is needed to reduce parking demand on surrounding streets and when it will help to minimize traffic congestion in the area.
+
+LU 13.14 Use a transportation-management program to reduce the number of vehicle trips to the major institution and to limit the adverse impacts of traffic and of institution-related parking on surrounding streets, especially residential streets.
+
+Strive to reduce the number of single-occupant vehicles used for trips to and from major institutions at peak times. Allow short-term or long-term parking space requirements to be modified as part of a transportation-management program.
+
+LU 13.15 Encourage housing preservation within major institution overlay districts and limit impacts on housing in surrounding areas. Discourage conversion or demolition of housing within a major institution's campus, allowing it only when the institution needs to expand or when the institution replaces the lost housing with new housing. Prohibit the demolition of noninstitutional housing for replacement
+by principal-use parking that is not necessary to meet the parking requirement. Prohibit development by a major institution outside of the MIO district boundaries when it would result in the demolition or conversion of residential buildings into nonresidential uses, unless authorized by an adopted master plan.
+
+LU 13.16 Require a master plan whenever a major institution proposes development that could affect the livability of adjacent neighborhoods or that has the potential for significant adverse impacts on the surrounding areas. Use the master plan to
+
+guide a comprehensive review of potential benefits and impacts of the major institution's proposed development,
+
+establish or modify geographic boundaries for the major institution and establish clear guidelines and development standards on which the major institutions and community can rely for long-term planning and development,
+
+provide the neighborhood with advance notice of the institution's development plans,
+
+allow the City to anticipate and plan for public capital or programmatic actions that will be needed to accommodate development,
+
+provide the basis for determining appropriate mitigating actions to avoid or reduce adverse impacts from major institution growth,
+
+establish a transportation-management program, and
+
+define the major institution's development program for a specified time period.
+
+LU 13.17 Require City Council review and adoption of the master plan after the major institution, the surrounding community, and the City develop the master plan.
+
+LU 13.18 Achieve a better relationship between residential, commercial, or industrial uses and the major institution's activities when considering rezones, while also trying to reduce or eliminate major land use conflicts.
+
+Historic Preservation and Cultural Resources
+
+Discussion
+
+Historic preservation recognizes and protects aspects of our shared cultural heritage: buildings, districts, and designed landscapes that link to Seattle's past. From the Native Americans who first established trading centers along the Duwamish River to the latest waves of newcomers from around the world, all have left their mark. Over time, Seattle has acquired historic features that have become part of the city's civic identity. Through the preservation of icons and historic locations such as the Space Needle, the Olmsted network of parks and boulevards, and Pioneer Square, the city can continue to celebrate its heritage and maintain its unique sense of place.
+
+Seattle values its past and recognizes and protects its heritage. One way we do this is by calling out more than 450 buildings, objects, and sites of exceptional significance, and eight historic districts. These visible connections to the past strengthen our sense of place and help build community. Finding new uses for existing structures also helps achieve the City's goals for sustainable development, because reusing historic buildings is more sustainable than demolishing and replacing them. Preserving and restoring historic buildings can encourage other revitalization in the neighborhood and attract new businesses.
+
+The benefits of historic preservation are not merely aesthetic. Preservation is integral to our economic-development, and it also enhances our city's identity as a center for tourism, it  self an important source of local jobs. Preserving historic buildings can help incubate small locally-owned businesses, revitalize commercial districts, and generate local jobs. Historic preservation promotes sustainability through the reuse, repair, and upgrading of existing built resources.
+
+GOAL
+
+LU G14	Maintain the city's cultural identity and heritage.
+
+
+POLICIES
+
+LU 14.1 Maintain a comprehensive survey and inventory of Seattle's historic and cultural resources. Update the survey and inventory when developing a new community plan or updating an existing plan, as appropriate.
+
+LU 14.2. Support the designation of areas as historic and special review districts, and the designation of structures, sites, and objects as City of Seattle landmarks in order to protect, enhance, and perpetuate their historical or architectural identities.
+
+LU 14.3 Tailor development standards and design review processes specifically for a special review district to describe design-related features allowed, encouraged, limited,
+or excluded from the district. Allow adopted guidelines to modify, exempt, or supersede the underlying zone's standards.
+
+LU 14.4  Encourage the adaptive reuse of designated landmark structures by allowing uses in these structures that may not otherwise be allowed under the applicable zoning, provided such action is approved by the Landmarks Preservation Board.
+
+LU 14.S Use incentives, including the transfer of development rights, to encourage property owners and developers to restore or reuse designated landmark structures and specified structures in designated districts.
+
+LU 14.6 Consider the use of conservation districts to recognize and sustain the character of unique residential or commercial districts.
+
+LU 14.7 Protect the scale and character of the established development pattern, while encouraging compatible and context-sensitive infill development.
+
+LU 14.8 Expand outreach mechanisms to encourage historic preservation projects in neighborhoods and communities that have not traditionally benefited from historic preservation efforts, with particular focus on areas with high concentrations of under-served and/or under-represented people.
+
+LU 14.9 Identify historic resources that can be successfully used to meet the city's housing goals.
+
+LU 14.10 Identify, preserve, and protect archaeological resources.
+
+
+GOAL
+
+LU G1S	Promote the economic opportunities and benefits of historic preservation.
+
+
+POLICIES
+
+LU 1S.l Recognize the economic value of Seattle's historic resources in attracting tourism; encourage reinvestment of a share of the revenue derived from tourism to sustain and expand historic preservation.
+
+LU 1s.z Encourage rehabilitation opportunities and reinvesting in vacant or underutilized historic properties to spark economic revitalization.
+
+LU 1S.3 Encourage rehabilitation of existing housing units and other building types that expands affordable housing choices and contributes to market-rate and workforce housing.
+
+LU 1S.4 Explore and provide various financial and regulatory incentives, if possible, to allow for the productive, reasonable, and adaptive reuse of historic resources.
+
+
+GOAL
+
+LU G16	Promote the environmental benefits of preserving and adaptively reusing historic buildings.
+
+
+POLICIES
+
+LU 16.1	Encourage rehabilitation and adaptive reuse of buildings to conserve resources, reduce waste, and demonstrate stewardship of the built environment.
+
+LU 16.2  Promote seismic and energy efficiency retrofits of historic buildings to reduce carbon emissions, save money, and improve public safety.
+
+LU 16.3 Encourage the creation of ecodistricts to achieve sustainability and resource efficiency at a district scale.
+
+
+Environmentally Critical Areas
+
+Discussion
+
+While Seattle is essentially a built city, there remain many natural areas that deserve special attention and care. Taking care of these areas is important for conservation but also to prevent possible harm to other parts of the city. For example, landslides, floods, or poor water quality would affect more than just these vulnerable areas. For these reasons, the City has regulations that help protect these areas from the wrong types of use or, in some cases, from use altogether.
+
+GOAL
+
+LU G17	Maintain a regulatory system that aims to
+
+protect the ecological functions and values of wetlands and fish and wildlife conservation areas;
+
+prevent erosion on steep slopes;
+
+protect public health, safety, and welfare in areas subject to landslides, liquefaction, floods, or peat settlement, while permitting reasonable development;
+
+protect the public by identifying seismic and volcanic hazard areas; and
+
+avoid development that causes physical harm to people, property, public resources, or the environment.
+
+
+
+POLICIES
+
+LU 11.1	Use best available science to identify and protect environmentally critical areas.
+
+LU 17.2  Promote both public and private opportunities to improve water quality and enhance aquatic, wetland, and terrestrial habitats in the city's environmentally critical areas so that these habitats are healthy for native wildlife and people.
+
+LU 17.3	Regulate the design and siting of structures and land-disturbing actions associated with development projects in environmentally critical areas and buffers to
+protect the ecological functions and values of environmentally critical areas and their buffers and to protect public health and safety on development sites and neighboring properties.
+
+LU 17.4  Permit modification of development standards in environmentally critical areas and buffers to protect the ecological functions and values of the critical areas while allowing reasonable development.
+
+LU 17.5	Review rezones in or adjacent to an environmentally critical area or a hazard-prone area by considering the effects on the ecological functions and values of the critical area and on public health, safety, and welfare, and recognize that lower-intensity zones and uses are generally more appropriate than higher-intensity zones in
+these areas. Review subdivisions and lot-boundary adjustments in or adjacent to wetlands, fish and wildlife habitat conservation areas, steep slope-erosion areas, and other environmentally critical areas by considering the effects on the ecological functions and values of those critical areas.
+
+LU 17.6	Adopt regulations that encourage landowners and developers to voluntarily enhance the ecological functions and values of environmentally critical areas.
+
+LU 17.7	Provide opportunities for environmental education associated with environmentally critical areas.
+
+LU 17.8	Regulate development on landslide-prone hillsides to protect against future damage due to instability that might be created or exacerbated by development, including potential damage to public facilities. Consider the relative risk to life or property when reviewing development proposals for landslide-prone areas.
+
+LU 17.9	Require engineering solutions for development in landslide-prone areas to provide complete stabilization of the developed area.
+
+LU 17.10 Limit disturbance and maintain and enhance vegetative cover on steep slopes to control erosion and water runoff in order to reduce the risk of siltation and other environmental impacts to streams, lakes, Puget Sound, and the City's stormwater facilities.
+
+LU 17.11 Require new development in liquefaction-prone areas to be designed and built to limit property damage and to reduce risks of injury and loss of life during earthquakes.
+
+LU 17.12 Regulate development on abandoned solid-waste landfill sites and areas within a thousand feet of those sites to reduce the risks of ground subsidence, earthquake-induced ground shaking, and methane-gas accumulation.
+
+LU 17.13 Regulate development in peat settlement-prone areas to limit ground settlement caused by the removal of groundwater and by structural and earth-fill loads on those areas and nearby parcels.
+
+LU 17.14 Seek a net gain in wetland function by enhancing and restoring wetland functions across the city in City projects.
+
+LU 17.1S Support efforts to restore wetlands to their original state and natural function.
+
+LU 17.16 Protect Seattle's unique remaining wetland resources and use mitigation sequencing to address construction and postconstruction impacts in wetlands and their buffers by strictly regulating development.
+
+LU 17.17 Seek to avoid a net loss in area of wetland acreage, and require no net loss of wetland functions and values when development is allowed; functions and values include but are not limited to flood control, water quantity and quality, and fish and wildlife habitat.
+
+LU 17.18 Protect existing vegetation in wetlands and their buffers, unless augmenting or replanting can be shown to better protect the wetland's functions and values.
+
+LU 17.19 Regulate development in and near designated fish- and wildlife-habitat conservation areas in order to protect the remaining native wildlife species and significant fish populations, especially salmonids.
+
+LU 17.20 Regulate development in environmentally critical areas that contain vegetative cover and physical space for habitat, and seek to
+
+protect contiguous wildlife-habitat areas; maintain wildlife corridors that connect functions;
+conserve soil and ground conditions that support native vegetation;
+
+prevent siltation and high water temperatures in downstream habitats;
+
+dampen fluctuations in surface-water flows, which are typically problematic in urbanized areas; and
+
+maintain groundwater recharge flow to support stream flows during drier seasons.
+
+LU 17.21 Establish riparian corridors that include the water course or water body and riparian management area.
+
+LU 17.22 Limit development within the riparian corridor to protect the natural functions and values of these areas from the potential negative effects of urban development.
+Retain vegetation in its natural condition. If the vegetation within the riparian corridor is degraded, allow new native plantings that enhance the functions and values of the riparian corridor.
+
+LU 17.23 Establish development standards to protect existing water quality, prevent erosion and siltation, and protect fish and wildlife habitats.
+
+LU 17.24 Establish an area bordering adjacent bodies of water on every development site, strictly limit development within such areas, and leave vegetation in its natural condition unless new plantings will enhance the functions of the buffer.
+
+LU 17.25 Regulate development in flood-prone areas in order to protect public health and safety, and aquatic habitat, and to prevent damage to private property caused by hazardous flooding conditions.
+
+LU 17.26 Consider retaining City-owned properties that are in environmentally critical areas as natural areas.

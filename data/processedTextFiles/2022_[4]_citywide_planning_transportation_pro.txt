@@ -1,0 +1,619 @@
+Transportation
+
+Introduction
+The Transportation element guides transportation investments to equitably serve the city's current residents and businesses and to accommodate Seattle's future growth. Hundreds of thousands of city and regional residents and businesses depend on the city's transportation system to access jobs, services, and community facilities, and to deliver freight and goods. Thousands more people will depend on it in the next twenty years as the city and region continue to grow. In Seattle's future, a robust transportation system should
+
+contribute to a safer city by working to eliminate serious injuries and fatalities on city streets; create on interconnected city where people hove reliable, easy-to-use travel options;
+develop a more vibrant city by creating streets and sidewalks that generate economic and social activity, adding to the city's overall health, prosperity, and happiness; and contribute to a more affordable city by providing high-quality and affordable transportation options that allow people to spend money on other things.
+
+Seattle's transportation system in 2035 will look very different than it does now. For exam ple, the Alaskan Way Viaduct will be gone, and State Route 99 will go through a tunnel in central Seattle. Light rail transit, streetcar routes, and frequent bus networks will be much more extensive, with light rail extending through more of the city and providing connections to Bellevue, Redmond, Shoreline, and Lynnwood. New technological innovations in transportation such as smart parking, shared transportation options (such as bike share and car share services, whose customers do not own the vehicles they use), and driverless vehicles will change the way people move through Seattle. This Plan will guide the City's future actions to address these and other changes.
+
+As a mature, fully built city, Seattle already has a core network of streets. There is no room for major new streets, which creates challenges but also opportunities as the City plans for growth. Making arterial streets wider is unfeasible and undesirable from a cost and environmental standpoint. It would also run counter to the City's goal to cut greenhouse gas emissions. Therefore, we must use the streets and sidewalks we have in the most efficient way possible. This means prioritizing street space so that it can be used by the most people, at most times of the day, and in a variety of ways. While many people still rely on a personal car as their best or only transportation option, the City plans to make travel more efficient and predictable for all by offering high-quality travel options. Improved mobility in the future will also require looking for opportunities to remove or reduce choke points such as railroad crossings and to use new traffic-signal timing and other technologies to help move people and goods.
+
+The Transportation Appendix contains inventories of transportation facilities and an analysis of the transportation effects of this Plan's growth strategy.
+
+Integrating Land Use and Transportation
+
+Discussion
+
+The development pattern described in the Growth Strategy and Land Use elements of this Plan has a major influence on the City's transportation system. The City's growth strategy focuses growth in urban centers, urban villages, and manufacturing/industrial centers. Crucial to the success of these areas is reliable transportation to, from, and within these areas. This will require a transportation system that includes several methods of travel for all trips throughout the day, including during the evening and on weekends. Automobile and freight access to property will remain important for accommodating growth throughout the city.
+
+The City can make improvements to better connect people to urban centers and urban villages by many travel options, especially by transit and bicycle. In addition, transportation facilities that connect to and support the city's two manufacturing/industrial centers are very important to the city's economy. Seattle must find the right balance between serving the areas that will see the most growth and providing transportation services to all who need it, including those in parts of Seattle that have historically seen less investment in transportation.
+
+GOAL
+
+TG 1	Ensure that transportation decisions, strategies, and investments support the City's overall growth strategy and are coordinated with this Plan's land use goals.
+
+
+POLICIES
+
+T 1.1	Provide safe and reliable transportation facilities and services to promote and accommodate the growth this Plan anticipates in urban centers, urban villages, and manufacturing/industrial centers.
+
+T 1.2	Improve transportation connections to urban centers and villages from all Seattle neighborhoods, particularly by providing a variety of affordable travel options (pedestrian, transit, and bicycle facilities) and by being attentive to the needs of vulnerable and marginalized communities.
+
+T 1.3	Design transportation infrastructure in urban centers and villages to support compact, accessible, and walkable neighborhoods for all ages and abilities.
+
+T 1.4	Design transportation facilities to be compatible with planned land uses and consider the planned scale and character of the surrounding neighborhood.
+
+T 1.5	Invest in transportation projects and programs that further progress toward meeting Seattle's mode-share goals, in Transportation Figures land 2, and reduce dependence on personal automobiles, particularly in urban centers.
+
+
+
+Transportation Figure 1
+Mode-Share Targets for All Work Trips* to Seattle and Its Urban Centers
+Percentage of work trips made by travel modes other than driving alone
+
+Area
+2014
+2035 Target
+Downtown
+77%
+85%
+First Hill/Capitol Hill
+
+70%
+Uptown
+48%
+60%
+South Lake Union
+67%
+80%
+
+Area
+2014
+2035 Target
+University District
+73%
+85%
+Northgate
+30%
+50%
+Seattle
+57%
+65%
+*work trips terminating in the city or urban center
+
+
+Transportation Figure 2
+Mode-Share Targets for Residents of Seattle and Its Urban Centers
+Percentage of non-work* trips made using travel modes other than driving alone
+
+Area
+2014
+2035 Target
+Downtown
+88%
+90%
+First Hill/Capitol Hill
+80%
+85%
+Uptown
+82%
+85%
+South Lake Union
+76%
+85%
+University District
+79%
+90%
+Northgate
+46%
+55%
+Seattle
+67%
+75%
+*non-work trips that hove both their origin and destination within the city or urban center
+
+
+T 1.6	Enhance goods movement to, within, and between Seattle's manufacturing/ industrial centers and urban villages and business districts.
+
+T 1.7	Recognize the connection between transportation choices and climate change and work to reduce vehicular emissions.
+
+
+Make the Best Use of the Streets We Have
+
+Discussion
+
+The public street space in Seattle needs to accommodate several different functions to serve existing and future activity. Because it will be difficult to expand this available public street space in any significant way, it is important for the City to use the existing streets efficiently and wisely. This section of the Plan establishes the policy framework for making those decisions.
+
+The City has adopted master plans to address nonautomobile modes of travel-pedestrian, bicycle, transit, and freight movement-drawing on extensive community input. In planning for how to use streets, it is useful to look at the need to provide space for pedestrian activities, travelways for various types of vehicles, and a flex area along the curb for making transitions. Pedestrian activities include walking as well as utilizing bus shelters, bike racks, and sidewalk cafes. The flex area provides parking, bus stops, and passenger and freight loading, and the area that is used for parking may be used for mobility during peak times.
+In addition, space should be available for parklets, play streets, and other activating uses of the street. Providing space for all these functions efficiently and where they are needed helps make the most of a limited resource.
+
+Not every function can fit in every street. The goals and policies in this section provide di  rection on integrating and, where necessary, prioritizing functions within the different parts of a street. These policies also recognize that collectively two or more streets can combine to serve as a "complete corridor," since not every street can accommodate every need.
+
+GOAL
+
+TG 2	Allocate space on Seattle's streets to safely and efficiently connect and move people and goods to their destinations while creating inviting spaces within the rights-of-way.
+
+
+POLICIES
+
+T 2.1	Devote space in the street right-of-way to accommodate multiple functions of mobility, access for commerce and people, activation, landscaping, and storage of vehicles.
+
+T 2.2	Ensure that the street network accommodates multiple travel modes, including transit, freight movement, pedestrians, people with disabilities, bicycles, general purpose traffic, and shared transportation options.
+
+T 2.3	Consider safety concerns, modal master plans, and adjacent land uses when prioritizing functions in the pedestrian, travelway, and flex zones of the right-of-way.
+
+T2.4	Use pedestrian design guidance in the Right-of-Way Improvements Manual and policy guidance from the modal master plans to determine adequacy of the pedestrian realm, before allocating space to the flex zone or travelway. Within the pedestrian realm, prioritize space to address safety concerns, network connectivity, and activation.
+
+T 2.5	Prioritize mobility needs in the street travel way based on safety concerns and then on the recommended networks and facilities identified in the respective modal plans.
+
+T 2.6 Allocate space in the flex zone to accommodate access, activation, and greening functions, except when use of the flex zone for mobility is critical to address safety or to meet connectivity needs identified in modal master plans. When mobility is needed only part of the day, design the space to accommodate other functions at other times.
+
+T 2.7 Assign space in the flex zone to support nearby land uses, provide support for modal plan priorities, and accommodate multiple functions.
+
+
+
+
+Transportation Figure 3
+Priorities for Right-of-Way "Flex Zone" by Predominant Use of Area
+
+Commercial/Mixed-Use Areas
+Industrial Areas
+Residential Areas
+Modal plan priorities
+Modal plan priorities
+Modal plan priorities
+Access for commerce
+Access for commerce
+Access for people
+Access for people
+Access for people
+Access for commerce
+Activation
+Storage
+Greening
+Greening
+Activation
+Storage
+Storage
+Greening
+Activation
+
+
+T 2.8 Employ the following tactics to resolve potential conflicts for space in the right-of-way:
+
+Implement transportation and parking-demand management strategies to encourage more efficient use of the existing right of way
+
+Allocate needed functions across a corridor composed of several streets or alleys, if all functions cannot fit in a single street
+
+Share space between travel modes and uses where safe and where possible over the course of the day
+
+Prioritize assignment of space to shared and shorter-duration uses
+
+Encourage off-street accommodation for nonmobility uses, including parking and transit layover
+
+
+T 2.9 Develop a decision-making framework to direct the planning, design, and optimization of street right-of-way.
+
+
+T 2.10 Identify street types in the Right-of-Way Improvements Manual, and have those street types correspond to the land uses designated in this Plan.
+
+T 2.11 Design sidewalks in urban centers, urban villages, and areas designated as pedestrian zones in the Land Use Code to meet the dimensional standards as specified in the Right-of-Way Improvements Manual to foster vibrant pedestrian environments in these areas.
+
+T 2.12 Designate the following classifications of arterials:
+
+Principal arterials: roadways that are intended to serve as the primary routes for moving traffic through the city and for connecting urban centers and urban villages to one another or to the regional transportation network
+
+Minor arterials: roadways that distribute traffic from principal arterials to collector arterials and access streets
+
+Collector arterials: roadways that collect and distribute traffic from principal and minor arterials to local access streets or provide direct access to destinations
+
+
+T 2.13 Preserve and enhance the boulevard network both for travel and as a usable open  space system for active transportation modes.
+
+
+T 2.14 Maintain, preserve, and enhance the City's alleys as a valuable network for public spaces and access, loading and unloading for freight, and utility operations.
+
+
+T 2.15 Create vibrant public spaces in and near the right-of-way that foster social interaction, promote access to walking, bicycling, and transit options, and enhance the public realm.
+
+Transportation Options
+
+Discussion
+
+Transit, bicycling, walking, and shared transportation services reduce collisions, stress, noise, and air pollution, while increasing social contact, economic vitality, affordability, and overall health. They also help use right-of-way space more efficiently and at lower costs. The best way to get Seattleites to take advantage of these options is to make them easy choices for people of all ages and abilities.
+
+The plans that the City has developed for individual travel modes (pedestrian, bicycle, and transit) include strategies and projects that will improve transportation choices in the city. These include the Pedestrian Master Plan, the Bicycle Master Plan, and the Transit Master Plan. In prioritizing investments, these plans balance development levels with equity, ensuring that people who are dependent on transit or vehicle use because of age, disability, or financial considerations are well served. For more information on the specific investments that the City plans to make to support transit, bicycle use, and walking, refer to the maps in Transportation Figures 4-7.
+
+Some people in the city have fewer options for travel.
+For instance, we know from the American Community
+Survey that roughly a quarter of all households of color
+in Seattle, including a third of black households, do
+not have a motor vehicle at home. Research by King
+County found that people in households with incomes
+under $35,000 are much more likely than others to rely
+on transit for all their transportation needs. Providing
+more transit options for these communities is one way
+the City can use its transportation planning to improve
+race and social equity in the city.
+
+Share of Seattle Households
+without Access to a Vehicle
+By Race/Ethnicity of Householder
+White, non-Hispanic Of color
+Source: 2011–2013 ACS, US Census Bureau
+
+While not everyone can always walk, bike, use a car-share service, or ride transit, the City can reduce the number of drive-alone trips that residents, employees, and visitors take, and even the need to own a personal vehicle. If the City offers people safe, affordable, and comfortable travel choices, they will be more likely to use them. Improving transportation choices can protect the environment, enhance the local economy, and support healthy and sustainable communities. If more people use different types of transportation during the busiest times of day (generally the late-afternoon peak commute time), more people and goods can get to their destinations in a reasonable time. Reducing drive-alone trips at this time of day is consistent with the City's overall commute-trip reduction goals.
+
+To make these options work, the City needs to help residents understand the options that are available so they can choose the ones that will work best for them. Having information about travel choices can influence where people choose to live and how they move about the city.
+
+In helping residents make these decisions, the City must consider all aspects of the transportation system. One way the City can affect many aspects of the system is through transportation-demand management, a technique that aims to reduce travel impacts on the system, particularly drive-alone trips at congested times of the day. Transportation-demand management includes looking at the role of parking, since its availability, cost, and proximity to destinations are important considerations for many as they choose whether to drive or take advantage of other travel options. Especially for people using transit options to travel across the city or the region, there is a need to provide efficient ways to get to and from the transit. This is often called first-mile and last-mile travel because it can involve getting from home to a transit station on one end of a trip and from a transit station to a job on the other end. The first and last mile can often be traveled by walking, biking, ride sharing, or local bus service.
+
+
+
+Transportation Figure 4
+Priority Corridors for Transit Investments
+
+Transportation Figure 5
+Planned Frequent Transit Service Network
+
+
+Transportation Figure 6
+Recommended Bicycle Network
+
+
+Transportation Figure 7
+Pedestrian Priority Investment Areas
+
+GOAL
+
+TG 3	Meet people's mobility needs by providing equitable access to, and encouraging use of, multiple transportation options.
+
+
+POLICIES
+
+T 3.1	Develop and maintain high-quality, affordable, and connected bicycle, pedestrian, and transit facilities.
+
+T3.2 Improve transportation options to and within the urban centers and urban villages, where most of Seattle's job and population growth will occur.
+
+T3.3 Consider the income, age, ability, and vehicle-ownership patterns of populations throughout the city in developing transportation systems and facilities so that all residents, especially those most in need, have access to a wide range of affordable travel options.
+
+T 3.4 Develop a citywide transit system that includes a variety of transit modes to meet
+passenger capacity needs with frequent, reliable, accessible, and safe service to a
+wide variety of destinations throughout the day and week.
+T 3.5 Prioritize transit investments on the basis of ridership demand, service to
+populations heavily reliant on transit, and opportunities to leverage funding.
+T 3.6 Make transit services affordable to low-income residents through programs that
+reduce household transportation costs.
+T 3.7 Optimize operations of bus rapid transit, RapidRide, and streetcar corridors by
+adjusting signals and providing exclusive transit lanes to promote faster travel times
+for transit than for automobile travel.
+T 3.8 Work with transportation providers, such as car share, bike share and taxi providers,
+to provide access to their services throughout the city and to maintain the
+affordability of their services.
+T 3.9 Expand light rail capacity and bus reliability in corridors where travel capacity is
+constrained, such as crossing the Lake Washington Ship Canal or the Duwamish
+River, or through the Center City.
+T 3.10 Provide high-quality pedestrian, bicycle, and bus transit access to high-capacity
+transit stations, in order to support transit ridership and reduce single-occupant
+vehicle trips.
+T 3.11 Develop and maintain bicycle and pedestrian facilities, including public stairways,
+that enhance the predictability and safety of all users of the street and that connect
+to a wide range of key destinations throughout the city.
+T 3.12 Look for opportunities to reestablish or improve connections across I-5 and
+State Highways by creating new crossings, enhancing streets where State
+Highways cross overhead, or constructing lids, especially where these can also
+enhance opportunities for development or open space, affordable housing, and
+neighborhood cohesion.
+
+
+T 3.13 Prioritize bicycle and pedestrian investments on the basis of increasing use, safety,
+connectivity, equity, health, livability, and opportunities to leverage funding.
+T 3.14 Develop facilities and programs, such as bike sharing, that encourage short trips to
+be made by walking or biking.
+T 3.15 Develop and implement programs to educate all users of the street on rules of the
+road, rights, and responsibilities.
+T 3.16 Support and plan for innovation in transportation options and shared mobility,
+including car sharing, bike sharing, and transportation network companies, that
+can increase travel options, enhance mobility, and provide first- and last-mile
+connections for people.
+T 3.17 Implement new technologies that will enhance access to transportation and parking
+options.
+T 3.18 Implement curb-space management strategies such as parking time limits, on-street
+parking pricing, loading zones, and residential parking programs to promote
+transportation choices, encourage parking turnover, improve customer access, and
+provide for efficient allocation of parking among diverse users.
+T 3.19 Consider roadway pricing strategies on city arterials to manage demand during
+peak travel times, particularly in the Center City.
+T 3.20 Consider replacing short-term parking that is displaced by construction or new
+transportation projects only when the project results in a concentrated and
+substantial amount of on-street parking loss.
+T 3.21 Design and manage the transportation system, including on-street parking, so that
+people with disabilities have safe and convenient access to their destinations, while
+discouraging use of disabled parking permits for commuter use in areas of high
+short-term parking demand.
+T 3.22 Assess the affordability and accessibility of existing and potential transportation
+options in order to better inform decisions affecting the equitable provision of
+transportation services.
+
+
+Transportation Effects on the Environment
+
+Discussion
+
+Transportation policies that encourage use of nonautomobile travel options support not only the City's growth strategy but also its environmental goals, including those related to climate change. Cars, buses, trucks, and other motorized transportation make up Seattle's largest source of greenhouse gas emissions, and the City's Climate Action Plan sets high standards for reducing greenhouse gas emissions. Using more fuel-efficient transportation options to move larger numbers of people on well-designed and well-maintained streets is a crucial step to creating a healthy urban environment. By reducing the need for personal car use, the City can also reduce congestion and provide more opportunities to reallocate public right-of-way for trees and landscaping. Providing and promoting a wider variety of transportation options is also integral to achieving these environmental goals.
+
+GOAL
+
+TG 4	Promote healthy communities by providing a transportation system that protects and improves Seattle's environmental quality.
+
+
+POLICIES
+
+T 4.1	Design and operate streets to promote green infrastructure, new technologies, and active transportation modes while addressing safety, accessibility, and aesthetics.
+
+T 4.2	Enhance the public street tree canopy and landscaping in the street right-of-way.
+
+T 4.3	Reduce drive-alone vehicle trips, vehicle dependence, and vehicle-miles traveled in order to help meet the City's greenhouse gas reduction targets and reduce and mitigate air, water, and noise pollution.
+
+
+T4.4 Manage the transportation system to support modes that reduce the use of fossil fuels and promote the use of alternative fuels.
+
+T4.5 Encourage the use of electric-powered vehicles and the provision and expansion of electric-vehicle charging stations.
+
+
+T 4.6	Improve mobility and access for freight in order to reduce truck idling, improve air quality, and minimize the impacts of truck parking and movement in residential areas.
+
+
+
+Support a Vibrant Economy
+
+Discussion
+
+The movement of goods and services is critical to economic development in Seattle and the region. Seattle's businesses and residents rely on freight routes for safe and timely transportation of goods. Freight carriers depend on a well-functioning network of rail, water, air, and truck transportation. The City's Freight Master Plan identifies the city's overall truck freight network and prioritizes investments for freight mobility projects. Transportation Figure 8 shows the major truck streets identified by the City. In addition to goods movement, a well-designed transportation network supports a thriving economy by enhancing access to jobs, businesses, schools, and recreation. This kind of easy access adds to the vibrancy of the city's urban centers and urban villages.
+
+Transportation Figure 8
+Freight Network
+
+GOAL
+
+TG 5	Improve mobility and access for the movement of goods and services to enhance and promote economic opportunity throughout the city.
+
+
+POLICIES
+
+T 5.1 Enhance Seattle’s role as the hub for regional goods movement and as a gateway to
+national and international suppliers and markets.
+T 5.2 Develop a truck freight network in the Freight Master Plan that connects the city’s
+manufacturing/industrial centers, enhances freight mobility and operational
+efficiencies, and promotes the city’s economic health.
+T 5.3 Ensure that freight corridors are designed, maintained, and operated to provide
+efficient movement of truck traffic.
+T 5.4 Use intelligent transportation system technology to alert motorists, bicyclists,
+and pedestrians to the presence and anticipated length of closures due to train
+crossings and bridge openings for water vessels.
+T 5.5 Evaluate the feasibility of grade separation in locations where train-induced street
+closings result in significant delays and safety issues for other traffic, and improve
+the safety and operational conditions at rail crossings of city streets.
+T 5.6 Work with freight stakeholders and the Port of Seattle to maintain and improve
+intermodal freight connections involving Port container terminals, rail yards,
+industrial areas, airports, and regional highways.
+T 5.7 Support efficient and safe movement of goods by rail where appropriate, and
+promote efficient operation of freight rail lines and intermodal yards.
+T 5.8 Increase efficient and affordable access to jobs, education, and workforce training in
+order to promote economic opportunity.
+T 5.9 Improve access to urban villages and other neighborhood business districts for
+customers and delivery of goods.
+T 5.10 Build great streetscapes and activate public spaces in the right-of-way to promote
+economic vitality.
+T 5.11 Explore freight demand management strategies that could consolidate freight
+delivery trips and encourage vehicles are sized appropriately for an urban
+environment.
+
+Safety
+
+Discussion
+
+Safety guides every decision that the Seattle Department of Transportation makes for transportation system operation and design. People expect to feel safe as they use streets, transit facilities, sidewalks, and trails. Collisions involving pedestrians or people riding bicycles are a relatively small percentage of overall collisions in the city but represent a much higher percentage of the serious injuries and fatalities in the city. When we invest in protecting our most vulnerable road users, such as pedestrians and bicyclists, we help build strong com  munities where residents and visitors are more likely to walk or bike, especially for short
+trips. Safer streets are also more efficient streets; they have fewer and less severe collisions, allowing people and goods to move safely and efficiently. In addition to making safety improvements, Seattle works to build a culture of mutual awareness between travelers. The City respects the right of all to travel safely regardless of how they choose to get around.
+
+GOAL
+
+TG 6	Provide and maintain a safe transportation system that protects all travelers, particularly the most vulnerable users.
+
+
+POLICIES
+
+T 6.1		Reduce collisions for all modes of transportation and work toward a transportation system that produces zero fatalities and serious injuries by 2030 to attain the City's Vision Zero objectives.
+
+T 6.2	Enhance community safety and livability through measures such as reduced speed limits, lane rechannelization, and crossing improvements.
+
+T 6.3	Consider lowering speed limits on residential streets and arterials as a way to reduce collision rates and improve safety.
+
+T 6.4	Minimize right-of-way conflicts to safely accommodate all travelers.
+
+T 6.5	Improve safety for all modes of transportation on streets heavily used by trucks.
+
+T 6.6	Invest in education measures that increase mutual awareness among motorists, pedestrians, and bicyclists.
+
+T 6.7	Implement innovative and effective measures to improve safety that combine engineering, education, evaluation, and enforcement.
+
+T 6.8	Make safety a priority in all transportation plans and projects, including project prioritization criteria.
+
+T 6.9  Use complete street principles, traffic-calming, and neighborhood traffic control strategies to promote safe neighborhood streets by discouraging cut-through traffic.
+
+
+Connecting to the Region
+
+Discussion
+
+Seattle is the largest employment and cultural center in the Puget Sound region. It is also a destination for people from all over the area for work, shopping, and recreation. The city is served by a number of state and regional transportation facilities, including two interstate highways; several state highways; a regional light rail, commuter rail, and bus system; a ferry network; waterways; and railroads. While the bulk of the Transportation element addresses transportation within the city limits, this section provides guidance for larger regional projects that affect Seattle. It also provides guidance for Seattle's participation in regional transportation planning and funding efforts.
+
+GOAL
+
+TG 7  Engage with other agencies to ensure that regional projects and programs affecting Seattle are consistent with City plans, policies, and priorities.
+
+
+POLICIES
+
+T 7.1	Coordinate with regional, state, and federal agencies; other local governments; and transit providers when planning and operating transportation facilities and services that reach beyond the city's borders.
+
+T 7.2	Support completion of the freeway high-occupancy-vehicle lane system throughout the Central Puget Sound region and continued use of that system for promoting more efficient travel.
+
+T 7.3	Limit freeway capacity expansions intended primarily to accommodate drive-alone users to allow only spot improvements that enhance safety or remove operational constraints in specific locations.
+
+T 7.4	Support a strong regional ferry system that maximizes the movement of people, freight, and goods.
+
+T 7.5  Plan for the city's truck freight network, developed as part of the Freight Master Plan, to connect to the state and regional freight network, and to continue providing good connections to regional industrial and warehouse uses.
+
+T 7.6	Work with regional transit agency partners to expand and optimize cross-jurisdictional regional light rail and bus transit service investments that function as a single, coordinated system to encourage more trips to, from, and within Seattle on transit.
+
+T 7.7	Work with regional transit agencies to encourage them to provide service that is consistent with this Plan's growth goals and strategy.
+
+
+T 7.8	Support regional transportation pricing and tolling strategies that help manage regionwide transportation demand.
+
+T 7.9	Work with neighboring jurisdictions and King County to integrate the city's bicycle network, developed as part of the Bicycle Master Plan, with regional bicycle facilities.
+
+
+Operating and Maintaining the Transportation System
+
+Discussion
+
+Thoughtful operation and maintenance of the transportation system promotes safety, efficiency, infrastructure preservation, and a high-quality environment. Spending money on maintaining and preserving the system today can prevent spending more dollars on replacing parts of the system later. This is particularly true for the more expensive and vital transportation assets, such as pavement, sidewalks, parking pay stations, intelligent transportation system devices, traffic-signal infrastructure, and bridges.
+
+Since the City makes and maintains its transportation improvements with taxpayer money, it must spend every dollar wisely and in a way that is consistent with the City's overall vision. The City keeps a comprehensive inventory of transportation assets that includes information about the condition of its most valuable assets. The City uses performance measures
+to decide whether and when to repair or replace infrastructure. In addition to planning for future maintenance, the City must address the significant backlog of unmet maintenance needs that currently exists.
+
+GOAL
+
+TG 8	Maintain and renew existing transportation assets to ensure the long-term viability of investments, reduce ongoing costs, and promote safe conditions.
+
+
+POLICIES
+
+T 8.1	Maintain the transportation system to keep it operating and to maximize its useful life.
+
+T 8.2		Operate the transportation system in a way that balances the following priorities: safety, mobility, accessibility, social equity, placemaking, infrastructure preservation, and resident satisfaction.
+
+T 8.3	Employ state-of-the-art intelligent transportation systems to increase efficiency of movement and reduce travel delays for all modes.
+
+T 8.4	Repair transportation facilities before replacement is necessary; replace failed facilities when replacement is more cost-effective than continuing to repair.
+
+T 8.5	Optimize traffic-signal corridors, taking the needs of all types of transportation into account.
+
+T 8.6	Designate a heavy haul network for truck freight to provide efficient freight operations to key port terminals and intermodal freight facilities.
+
+T 8.7		Mitigate construction impacts from City and private projects on the use of the street right-of-way and on the operation of the transportation system, especially for vulnerable populations.
+
+T 8.8	Look for innovative ways to create training, youth employment, and living wage opportunities for marginalized populations in the construction and major maintenance of transportation facilities.
+
+
+Measuring Level of Service
+
+Discussion
+
+To accommodate the growth anticipated in this Plan and the increased demands on the transportation system that come with that growth, the Plan emphasizes strategies to in  crease travel options. Those travel options are particularly important for connecting urban centers and urban villages during the most congested times of day. Strategies for increasing travel options include concentrating development in urban villages well served by transit, completing the City's modal plan networks, and reducing drive-alone vehicle use during the most congested times of day. As discussed earlier in this Transportation element, using the current street right-of-way as efficiently as possible means encouraging forms of travel other than driving alone.
+
+In order to help advance this Plan's vision, the City will measure the level of service (LOS) on its transportation facilities based on the share of all trips that are made by people driving alone. That measure focuses on travel that is occurring via the least space-efficient mode.
+By shifting travel from drive-alone trips to more efficient modes, Seattle will allow more people and goods to travel in the same amount of right-of-way. Because buses are the primary form of transit ridership in the city and buses operate on the arterial system, the percentage of trips made that are not drive-alone also helps measure how well transit can move around the city. A more detailed description of the City's transportation LOS system can be found in the Transportation Appendix.
+
+GOAL
+
+TG 9 Use LOS standards as a gauge to assess the performance of the transportation system.
+
+
+POLICIES
+
+T 9.1	Define arterial and transit LOS to be the share of drive-alone trips made during the late-afternoon peak period (3:00 to 6:00 p.m.).
+
+T 9.2	Provide a menu of transportation-demand management tools for future development to meet non-drive-alone mode share targets, provision of transit passes, carpool benefits, and improvements to pedestrian and bicycle facilities.
+
+T 9.3	Pursue strategies to reduce drive-alone trips in order to increase the ability of the city's transportation network to carry people and goods.
+
+T 9.4	Assess the mode share LOS standards over time and adjust as needed, based on review of other City transportation measures.
+
+Funding
+
+Discussion
+
+The city's transportation network is vital to preserving the quality of life, prosperity, and health of all Seattleites. Only with adequate funding can Seattle continue to operate, maintain, and improve its transportation network.
+
+In November 2015 Seattle voters approved the Levy to Move Seattle, which replaced the Bridging the Gap levy that expired at the end of 2015. The Levy to Move Seattle will provide
+$930 million for transportation investments between 2016 and 2024 in three main categories: safety, congestion relief, and maintenance and preservation. This funding will help advance many of the policies in this Plan.
+
+The City also has a commercial parking tax, which supports large capital improvement and preservation projects. In 2010 the City created the Seattle Transportation Benefit District (STBD), which has authority to generate revenues from additional sources not otherwise available to the City. The STBD imposed a twenty-dollar vehicle license fee, which provides an additional dedicated financial resource for addressing transportation needs. In addition, Seattle voters approved increased funding for bus transit service in 2014, which adds bus service to many of the highest-ridership routes in the city.
+
+
+GOAL
+
+TG10	Ensure that transportation funding is sufficient to operate, maintain, and improve the transportation system that supports the City's transportation, land use, economic, environmental, equity, and other goals.
+
+
+POLICIES
+
+
+T 10.1 Maintain and increase dedicated local transportation funding by renewing or
+replacing the transportation levy and by maintaining or replacing the existing
+commercial parking tax and Seattle Transportation Benefit District.
+T 10.2 Work with regional and state partners to encourage a shift to more reliance on user-based
+taxes and fees, and on revenues related to impacts on the transportation
+system and the environment.
+T 10.3 Leverage local funding resources by securing grants from regional, state, and federal
+sources, and through contributions from those who benefit from improvements.
+T 10.4 Partner with other City departments, as well as regional transportation and public
+works agencies, to coordinate investments, maximize project integration, reduce
+improvement costs, and limit construction impacts on neighborhoods.
+T 10.5 Make strategic investment decisions consistent with City plans and policies.
+T 10.6 Prioritize investment by considering life-cycle costs, safety, environmental benefits,
+reduction of greenhouse gas emissions, and public health benefits. Race and social
+equity should be a key factor in selecting transportation investments.
+T 10.7 Consider use of transportation-impact fees to help fund transportation system
+improvements needed to serve growth.
+T 10.8 Prepare a six-year Capital Improvement Program (CIP) with projects and programs
+that are fully or partially funded.
+T 10.9 Develop prioritized lists of projects, consistent with City policies, and actively pursue
+funds to implement those projects.
+T 10.10 Identify and evaluate possible additional funding resources and/or alternative land
+use and transportation scenarios if the level of transportation funding anticipated in
+the six-year financial analysis (shown in Transportation Figures 9 and 10) falls short
+of the estimated amount.
+T 10.11 Explore innovative means of reducing maintenance costs such as converting right-of-way into other uses when appropriate.
+
+Transportation Figure 9
+Estimated Future Transportation Revenue
+
+
+Seattle Transportation Benefit District Funding (vehicle license fee and sales tax)
+$300
+$357
+Seattle Dedicated Transportation Funding
+$833
+$858
+Grants and Partnerships
+$163
+$640
+General Fund and Cumulative Reserve Fund
+$305
+$400
+Seawall Levy and Waterfront Partnership
+$420
+$475
+Long-Term Financing
+$100
+$145
+Total
+$2,120
+$2,875
+
+
+Transportation Figure 10
+Estimated Future Transportation Expenditures
+
+Estimated Expenditures in Millions (2016-2021)
+Category
+Low
+High
+Operations and Maintenance
+$406
+$430
+Major Maintenance and Safety
+$750
+$844
+Mobility and Enhancements
+$964
+$1,601
+Total
+$2,120
+$2,875
